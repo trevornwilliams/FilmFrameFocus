@@ -1,0 +1,136 @@
+@media (max-width: 450px) {
+    
+    img {
+        max-width: 85%;
+        max-height: 85%;
+        margin: auto;
+    }
+
+    .guide{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-columns: repeat(4, 1fr);
+        }
+        
+    #guidespacer {
+        display: block;
+        float: center;
+        width: 50%;
+    }
+}
+
+header img {
+    width: 50%;
+    height: 50%;
+}
+
+body img {
+    width: 95%;
+    height: 95%;
+}
+
+footer img {
+    height: 5%;
+    width: 5%; 
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    bottom: 5%;
+}
+
+.column img#linkedin:hover {
+    box-shadow: 0 0 5px black;
+}
+
+.column img#git:hover {
+    box-shadow: 0 0 5px black;
+}
+
+.column img#email:hover {
+    box-shadow: 0 0 5px black;
+}
+
+.column{
+    float:left;
+    width: 25%;
+    padding: 5px;
+  }
+
+
+figure {
+   display: block;
+   width: 10%;
+   position: absolute;
+   z-index: 1;
+   cursor: pointer;
+}
+
+figure img {
+   display: grid;
+   width: 100%;
+   min-width: 50px;
+}
+
+figure figcaption {
+   font-size: 0px;
+   text-align: center;
+   font-family: Helvetica, Arial, sans-serif;
+   background-color: rgba(255, 255, 255, 0.7);
+}
+
+
+#fig1 {
+   top: 400px; left: 30%;
+}
+
+#fig2 {
+   top: 600px; left: 30%;
+}
+
+#fig3 {
+   top: 800px; left: 30%;
+}
+
+#fig4 {
+   top: 1000px; left: 30%;
+}
+
+#fig5 {
+   top: 400px; right: 30%;
+}
+
+#fig6 {
+   top: 600px; right: 30%;
+}
+
+#fig7 {
+   top: 800px; right: 30%;
+}
+
+#fig8 {
+   top: 1000px; right: 30%;
+}
+
+
+figure:hover {
+    width: 50%;
+    z-index: 2;
+    transition: width 2s;
+}
+
+figure:hover img {
+    width: 100%;
+    transition: filter 2s;
+}
+
+figure:hover figcaption {
+    font-size: 1.2em;
+    transform: font-size 2s;    
+}
+
+
+audio, video {
+    display: block;
+    margin: 20px auto;
+    width: 95%;
+}
