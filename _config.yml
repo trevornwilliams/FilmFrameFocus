@@ -27,10 +27,10 @@ subtitle                 : "An exploration of cinema from a personal perspective
 name                     : "FilmFrameFocus"
 description              : "An exploration of cinema from a personal perspective"
 url                      : "https://filmframefocus.com"
-baseurl                  : 
+baseurl                  : ""
 repository               : "trevornwilliams/filmframefocus"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo-square.png"
+logo                     : "/assets/images/Title.png"
 masthead_title           : " "
 breadcrumbs              : false
 words_per_minute         : 200
@@ -91,7 +91,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "assets/images/logo-square.png"
+og_image                 : "assets/images/Profile.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -110,7 +110,7 @@ analytics:
 # Site Author
 author:
   name             : "Trevor Williams"
-  avatar           : "assets/images/profile.png"
+  avatar           : "assets/images/About.png"
   bio              : " "
   location         : "Pasadena, CA"
   email            :
