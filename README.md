@@ -8,4 +8,4 @@ You can also follow my cinematic journey on [Letterboxd](https://letterboxd.com/
 
 For any other questions, comments, or just to say hi, you can email me at [trevor@filmframefocus.com](mailto:trevor@filmframefocus.com?).
 
-#### – Trevor Neil Williams
+#### – [Trevor Neil Williams] (https://trevornwilliams.com)
