@@ -1,5 +1,5 @@
 main:
-  - title: "Subscribe"
-    url: "/subscribe/"
+  - title: "Reference"
+    url: "/reference/"
   - title: "About"
     url: "/about/"

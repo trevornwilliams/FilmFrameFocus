@@ -1,4 +1,6 @@
-<img src="/assets/images/About.png" alt="About" style="zoom: 15%;" />
+# FilmFrameFocus
+
+![About](/assets/images/About.png)
 
 FilmFrameFocus is my personal exploration of the history of film and the techniques that bring it to life. The posts on this site delve into elements of cinema that have captured my interest and inspired deeper investigation.
 
@@ -8,4 +10,4 @@ You can also follow my cinematic journey on [Letterboxd](https://letterboxd.com/
 
 For any other questions, comments, or just to say hi, you can email me at [trevor@filmframefocus.com](mailto:trevor@filmframefocus.com?).
 
-#### – [Trevor Neil Williams](https://trevornwilliams.com)
+## – [Trevor Neil Williams](https://trevornwilliams.com)

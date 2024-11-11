@@ -1,140 +1,216 @@
----
 
----
-
-$sans-serif: "FreightSansPro", -apple-system, BlinkMacSystemFont, Arial, sans-serif !default;
-$serif: $sans-serif;
-$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
-
-// Colors
-$gray: #7a8288 !default;
-$light-green: #e8f6e4 !default;
-$dark-gray: mix(#000, $gray, 50%) !default;
-$darker-gray: mix(#000, $gray, 60%) !default;
-$light-gray: mix(#fff, $gray, 50%) !default;
-$lighter-gray: mix(#fff, $gray, 90%) !default;
-
-$background-color: #fff !default;
-$code-background-color: #fafafa !default;
-$code-background-color-dark: $light-gray !default;
-$text-color: $dark-gray !default;
-$muted-text-color: mix(#fff, $text-color, 20%) !default;
-$border-color: $light-green !default;
-$form-background-color: $light-green !default;
-$footer-background-color: $light-green !default;
-
-$primary-color: #6f777d !default;
-$success-color: #3fa63f !default;
-$warning-color: #d67f05 !default;
-$danger-color: #ee5f5b !default;
-$info-color: #4bae34 !default; // This is the title text!
-$focus-color: $primary-color !default;
-$active-color: mix(#fff, $primary-color, 80%) !default;
-
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
-
-// Nav bar
-.greedy-nav .visible-links a:before {
-  background: $info-color;
+:root {
+  --white: #ffffff;
+  --black: #000000;
+  --gray: #8d8d8d;
+  --link-font-size: 0.9em;
+  --link-line-height: 1.8em;
+  --link-margin-bottom: 10px;
 }
 
-.greedy-nav a.site-logo {
-  display: inline-block; // Ensure transform applies correctly
-  transform-origin: left center; // Keeps the logo aligned to the left
+// Reset and Utility Classes
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
-.site-logo {
+// Base Styles
+body {
+  font-family: "Open Sans", sans-serif;
+  color: var(--black);
+  background: transparent;
+  min-height: 100vh;
   display: flex;
-  transform: scale(1.2); // Adjust scale as needed
   flex-direction: column;
-  align-items: center;
-
-
-  .site-subtitle {
-    display: block;
-    margin-top: 1px; // Adjust the spacing as needed
-    font-size: .6rem;
-  }
+  position: relative;
 }
 
-// Home page item
-.archive__item-title {
-    font-size: 24px; /* Big text for title */
-  }
-  
-.archive__item-date {
-font-size: 14px; /* Smaller text for date */
-color: #666; /* Subtle color for the date */
-}
-
-hr {
-    border: none; /* Remove the default border */
-    height: 1px; /* Set the height of the hr, which will be the thickness of the line */
-    background-color: $info-color; /* Set the color to black */
-    margin-top: 1em; /* Add some space above the hr */
-    margin-bottom: 1em; /* Add some space below the hr */
-}
-
-// Bio in about.md
-.sidebar {
-  opacity: 1;
-}
-
-// Remove underlines from links and make them green
 a {
+  color: var(--black);
+  font-weight: bold;
   text-decoration: none;
-  color: $info-color;
+
+  &:hover {
+    color: var(--gray);
+  }
 }
 
-// Color of text when highlighted
-::selection {
-  background: $light-green; /* Background color for selected text */
-  color: #000000; /* Text color for selected text */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Open Sans", sans-serif;
 }
 
-// Images in posts
-#main img {
-  display: block;
+// Layout
+.container {
+  width: 100%;
+  padding: 0 14px;
   margin: 0 auto;
+
+  @media (min-width: 576px) { max-width: 540px; }
+  @media (min-width: 768px) { max-width: 720px; }
+  @media (min-width: 992px) { max-width: 960px; }
+  @media (min-width: 1200px) { max-width: 1140px; }
 }
 
-// Font
-@font-face {
-  font-family: 'FreightSansPro';
-  src: url('FreightSansPro/FreightSansProBook-Regular.woff2') format('woff2');
-  font-style: normal;
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -15px;
 }
 
-@font-face {
-  font-family: 'FreightSansPro';
-  src: url('FreightSansPro/FreightSansProBook-Italic.woff2') format('woff2');
-  font-style: italic;
+.col-lg-12 {
+  width: 100%;
+  padding: 0 15px;
 }
 
-@font-face {
-  font-family: 'FreightSansPro';
-  src: url('FreightSansPro/FreightSansProSemibold-Italic.woff2') format('woff2');
-  font-weight: bold;
-  font-style: italic;
+// Header
+#header {
+  transition: ease-in-out 0.3s;
+  position: relative;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  overflow-y: auto;
+
+  h1 {
+    font-size: 36px;
+    line-height: 1;
+    font-weight: 700;
+  }
+
+  h2 {
+    font-size: 24px;
+    margin-top: 20px;
+    color: var(--black);
+  }
+
+  &.header-top {
+    height: auto;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    background: var(--white);
+    box-shadow: 0 2px 15px rgba(0, 0, 0, 0.01);
+    padding: 15px 0;
+    transition: all 0.5s;
+
+    h1 { font-size: 30px; margin: 0; }
+    h2 { display: none; }
+  }
 }
 
-@font-face {
-  font-family: 'FreightSansPro';
-  src: url('FreightSansPro/FreightSansProSemibold-Regular.woff2') format('woff2');
-  font-weight: bold;
-  font-style: normal;
+// Navigation
+.nav-menu {
+  margin-top: 35px;
+
+  ul {
+    font-size: var(--link-font-size);
+    line-height: var(--link-line-height);
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    li { margin-bottom: var(--link-margin-bottom); }
+  }
+
+  a {
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    padding: 0 8px;
+    font-family: "Open Sans", sans-serif;
+    transition: 0.3s;
+  }
 }
 
-html {
-  font-family: $sans-serif;
-  cursor: url('cursors/cursorDefault.svg') 0 0, auto;
+// Mobile Navigation
+.mobile-nav-toggle {
+  position: fixed;
+  right: 15px;
+  top: 15px;
+  z-index: 9998;
+  font-size: 24px;
+  transition: all 0.4s;
+  cursor: pointer;
 }
 
-p, ul, ol, h1, h2, h3, h4, h5, h6 {
-  cursor: url('cursors/cursorText.svg') 7 13, auto; /* Center for 13x25 cursor */
+.mobile-nav {
+  position: fixed;
+  top: 55px;
+  right: 15px;
+  bottom: 15px;
+  left: 15px;
+  background: var(--black);
+  border-radius: 4px;
+  padding: 10px 0;
+  visibility: hidden;
+  transition: ease-in-out 0.2s;
+
+  a {
+    color: var(--white);
+    padding: 10px 20px;
+    font-weight: 500;
+
+    &:hover { color: var(--gray); }
+  }
 }
 
-a, i {
-  cursor: url('cursors/cursorPointer.svg') 3 0, auto; /* Top-left tip slightly to the right for 28x29 pointer cursor */
+// Sections
+section {
+  overflow: hidden;
+  position: relative;
+  top: 140px;
+  opacity: 0;
+  transition: ease-in-out 0.4s;
+  z-index: 2;
+  margin-top: 100px;
+
+  &.section-show {
+    opacity: 1;
+    padding-bottom: 45px;
+  }
+
+  .container { background: var(--white); padding: 30px; }
+}
+
+// Footer
+#footer {
+  background: var(--black);
+  padding: 20px 0;
+  color: var(--white);
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+// Utility classes
+.d-flex { display: flex !important; }
+.justify-content-between { justify-content: space-between !important; }
+.align-items-center { align-items: center !important; }
+.text-center { text-align: center !important; }
+.mt-auto { margin-top: auto !important; }
+
+// Mobile Styles
+@media (max-width: 768px) {
+  #header {
+    height: auto;
+    padding: 15px 10px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+  }
+
+  #header h1 { font-size: 32px; }
+
+  .nav-menu ul {
+    flex-direction: column;
+    align-items: center;
+
+    li { margin: 10px 0; }
+  }
 }
