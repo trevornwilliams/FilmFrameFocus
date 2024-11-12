@@ -1,11 +1,9 @@
 ---
-layout: single
+layout: post
 title:  "Symbiopsychotaxiplasm and the Artifice of Filmmaking"
 date:   2020-07-03
-header:
-    og_image: "../assets/images/"
---- 
-
+categories: blog
+---
 ### [Symbiopsychotaxiplasm: Take One](https://youtu.be/yn4rJLzv4Jk)
 
 In the Spring of 1968, [William Greaves](https://www.imdb.com/name/nm0337348) set out to make a film about filmmaking. He called it “a fragment of the Godhead which is made up of other Godhead fragments.” This movie became *[Symbiopsychotaxiplasm: Take One](https://www.imdb.com/title/tt0296881)* (1968).
