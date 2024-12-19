@@ -23,7 +23,6 @@ email: trevor@filmframefocus.com
 description: An exploration of cinema from a personal perspective
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://filmframefocus.com"
-twitter_username: ""
 github_username:  trevornwilliams
 
 # Build settings
