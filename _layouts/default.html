@@ -4,17 +4,17 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>About</title>
-  <meta name="description" content="An exploration of cinema from a personal perspective">
-  <link rel="stylesheet" href="/assets/main.css">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&display=swap" rel="stylesheet">
-  <link rel="alternate" type="application/atom+xml" title="FilmFrameFocus" href="/feed.xml">
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
 </head>
 
 <body>
   <header class="site-header" role="banner">
     <div class="wrapper">
-      <a href="/">
+      <a href="{{ '/' | relative_url }}">
         <img src="/assets/images/Title.png" alt="FilmFrameFocus Logo" class="nav-logo">
       </a>
       <nav class="site-nav">
@@ -38,48 +38,26 @@
     </div>
   </header>
 
-  <article class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">About</h1>
-  </header>
-
-  <div class="post-content">
-    <p><img src="/assets/images/About.png" alt="About" /></p>
-
-<p>FilmFrameFocus is my personal exploration of the history of film and the techniques that bring it to life. The posts on this site delve into elements of cinema that have captured my interest and inspired deeper investigation.</p>
-
-<p>While FilmFrameFocus reflects my longstanding passion for cinema, my professional work involves numerous film and television productions. For work-related inquiries, you can find me on <a href="https://www.linkedin.com/in/trevornwilliams/">LinkedIn</a>.</p>
-
-<p>You can also follow my cinematic journey on <a href="https://letterboxd.com/trevornwilliams/">Letterboxd</a>.</p>
-
-<p>For any other questions, comments, or just to say hi, you can email me at <a href="mailto:trevor@filmframefocus.com?">trevor@filmframefocus.com</a>.</p>
-
-<h4 id="-trevor-neil-williams">– Trevor Neil Williams</h4>
-
-  </div>
-
-</article>
-
+  {{ content }}
 
   <footer class="site-footer h-card">
-    <data class="u-url" href="/"></data>
+    <data class="u-url" href="{{ '/' | relative_url }}"></data>
     <div class="wrapper">
-      <h2 class="footer-heading">FilmFrameFocus</h2>
+      <h2 class="footer-heading">{{ site.title }}</h2>
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
           <ul class="contact-list">
-            <li class="p-name">FilmFrameFocus</li>
-            <li><a class="u-email" href="mailto:trevor@filmframefocus.com">trevor@filmframefocus.com</a></li>
+            <li class="p-name">{{ site.title }}</li>
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           </ul>
         </div>
         <div class="footer-col footer-col-2">
           <ul class="social-media-list">
-            <li><a href="https://github.com/trevornwilliams"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">trevornwilliams</span></a></li>
+            <li><a href="https://github.com/{{ site.github_username }}"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">{{ site.github_username }}</span></a></li>
           </ul>
         </div>
         <div class="footer-col footer-col-3">
-          <p>An exploration of cinema from a personal perspective</p>
+          <p>{{ site.description }}</p>
         </div>
       </div>
     </div>

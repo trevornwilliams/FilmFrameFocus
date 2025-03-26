@@ -6,15 +6,16 @@ categories: blog
 ---
 # Symbiopsychotaxiplasm and the Filmmaking Process
 
-<iframe width="1285" height="722" src="https://www.youtube.com/embed/yn4rJLzv4Jk" title="Symbiopsychotaxiplasm: Take One" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<div class="video-container">
+<iframe width="750" height="422" src="https://www.youtube-nocookie.com/embed/yn4rJLzv4Jk?si=fIyZWPGFdTIsbXFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 In the Spring of 1968, [William Greaves](https://www.imdb.com/name/nm0337348) set out to make a film about filmmaking. He called it “a fragment of the Godhead which is made up of other Godhead fragments.” This movie became *[Symbiopsychotaxiplasm: Take One](https://www.imdb.com/title/tt0296881)* (1968).
 
 Symbiopsychotaxiplasm is a deconstruction of the filmic form. The basic elements of the cinema are based around the non-existence of apparent camera and sound equipment. Based on the Hollywood-Mosfilm model by which most films are created, filmmaking techniques are supposed to be invisible.
 
 Greaves created a screen test for his actors and assigned three cameras to film the event. The first camera focuses on the actors and the scene. The second camera focuses on the first camera crew filming the actors. The third camera focuses on the first camera, second camera, and the actors –basically everything encompassed in the filmmaking process.
 
-![28203.large.jpg](https://images.squarespace-cdn.com/content/v1/5e13b779a521ce05b02b31c9/1600892504280-WT24AS53RBU94P4IIZM3/28203.large.jpg)
+![Symbiopsychotaxiplasm Title Card](/assets/images/Symbiopsychotaxiplasm/Symbiopsychotaxiplasm_TitleCard.jpg)
 
 The point of view that Greaves holds on filmmaking is the film will tell itself. A director is “a person who gets his ego out of his own way, he is at best a collaborator and servant of nature… but who, paradoxically, firmly controls the conditions of spontaneity, theatricality, and drama on the set.” His attempts at creating a short narrative-transitive based scene in a largely narrative-intransitive film are his means of exposing the constructs of the scene and film as a storytelling medium. A documentary is based on the assumption that the events, people, and places exist and are presented by a reliable source. Here, Greaves exploration of the documentary is comparable to jazz. The assumption is that it is based on improvisation and spontaneity in filmmaking and that it does not come out of rehearsal and interference. At any point, the film could have been based in the created reality of fiction or the experienced reality of documentary.
 
@@ -24,13 +25,13 @@ Throughout the film, there are several moments at which the crew discusses the e
 
 When the film crew later confronts the director about the project and their own conflict and confusion, Greaves tells them, “It’s a circus with a better script.” He wants to improvise something that is better than the written screen test as a reflection of the ‘establishment’ and a representation of the counter-cultural sentiments in the US at the time. It is a “creative piece of cinematic experience” as Greaves divulges his own expectations to the crew following eight days of filming the same screen test repeatedly with occasionally different actors.
 
-![](https://images.squarespace-cdn.com/content/v1/5e13b779a521ce05b02b31c9/1600893014008-ALTSUH2WW0ZNX95DYC5S/image-asset.jpeg)
+![Bill Greaves](/assets/images/Symbiopsychotaxiplasm/Symbiopsychotaxiplasm_BillGreaves.jpeg)
 
 This experiment in filmmaking took nearly 130,000 feet of 16mm film (or roughly 55 hours). A producer -impressed with Greave’s previous documentary work- funded the Symbiopsychotaxiplasm Operation. The producer told him to make whatever he wanted. With complete control over his project, Greaves could create a film without the limitations of having overbearing control of producers and investors. The film’s photography was finished in 1968, though it took three years to finish the editing before a print was struck in 1971. At that time, Greaves took it to the [Cannes Film Festival](https://en.wikipedia.org/wiki/Cannes_Film_Festival) where it was screened. The projectionist confused the reels of the film and the screened film was nearly indecipherable for the audience, losing most of any chance for it finding an audience.
 
 The confusion of reels on an experimental film such as Symbiopsychotaxiplasm would ruin the point of a documentary exploring the concept of filmmaking. After editing 55 hours of footage down to 75 minutes, the apparent narrative structure of the film would be loss as it is an experiment in storytelling. The intended presentation was made in editing. As in the film itself, Greaves explores the film developing as it is shot based on idea and not story. The structure of the filmic narrative came from the filming and editing of an idea, not from the story, script, and overall pre-production process.
 
-![](https://images.squarespace-cdn.com/content/v1/5e13b779a521ce05b02b31c9/1600892532903-900RXYECJ4SXS82GKKHL/image-asset.jpeg)
+![Crew](/assets/images/Symbiopsychotaxiplasm/Symbiopsychotaxiplasm_Crew.jpeg)
 
 Symbiopsychotaxiplasm is a learning experience. It is not only an attempt to capture a moment, whether reality or simulacrum of reality, that is essential in understanding film as a form. A film does not have to be entertaining by conventional means if it is interesting. A film can be intellectually stimulating as it attacks the viewer’s perception of film and still be a worthy experience for the film viewer.
 
