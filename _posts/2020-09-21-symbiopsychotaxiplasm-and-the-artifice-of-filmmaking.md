@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Symbiopsychotaxiplasm and the Artifice of Filmmaking"
-date:   2020-07-03
+date:   2020-09-21
 categories: blog
 ---
 # Symbiopsychotaxiplasm and the Filmmaking Process

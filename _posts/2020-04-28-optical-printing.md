@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Optical Printing"
+date:   2020-04-28
+categories: blog
+---
 # Optical Printing
 
 While many filmmakers will commonly praise practical and optical effects, most modern [visual effects](https://en.wikipedia.org/wiki/Visual_effects) are created digitally. Digital is more efficient for time and money, allows for greater possibilities, and often creates impeccable images. The current craftsmanship of analog is often limited to [in-camera effects](https://en.wikipedia.org/wiki/In-camera_effect), but many couldn't have been accomplished in the past without the use of an [optical printer](https://en.wikipedia.org/wiki/Optical_printer).

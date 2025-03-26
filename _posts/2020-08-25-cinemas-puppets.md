@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Cinema’s Puppets"
+date:   2020-08-25
+categories: blog
+---
 # Cinema’s Puppets
 
 [Puppetry](https://en.wikipedia.org/wiki/Puppetry) has been an important part of cinema since the silent days. There are several types of puppetry and a variety of controls in their operation. There are physical manipulations such as [hand and rod puppetry](https://en.wikipedia.org/wiki/Hand_puppet), but there are also more mechanical means such as cable control and [servo motors](https://en.wikipedia.org/wiki/Servomotor). These last two are what blur the line between puppets and [animatronics](https://en.wikipedia.org/wiki/Animatronics).

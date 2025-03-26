@@ -1,12 +1,12 @@
+---
+layout: post
+title:  "Cinephile"
+date:   2020-07-15
+categories: blog
+---
 # Cinephile
 
-[
-
 ![LaMamanEtLaPutain1973.jpeg](https://images.squarespace-cdn.com/content/v1/5e13b779a521ce05b02b31c9/1580166301987-47R53OH9ABUX8QZS9Q4J/LaMamanEtLaPutain1973.jpeg)
-
-
-
-](https://letterboxd.com/film/the-mother-and-the-whore/)
 
 Last night, I watched [_The Mother and the Whore_](https://letterboxd.com/film/the-mother-and-the-whore/) (1973) for the first time. It’s a film made by a [cineaste](https://en.wikipedia.org/wiki/Cinephilia) about a [cinephile](https://en.wikipedia.org/wiki/Cinephilia), and since it's been difficult to find in the US, it’s mainly cinephiles that seek it out. Certain movies are difficult to find for one reason or another and there isn’t too much information on how to easily track them down.
 

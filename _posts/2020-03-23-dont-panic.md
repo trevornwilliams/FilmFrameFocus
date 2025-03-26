@@ -1,52 +1,54 @@
+---
+layout: post
+title:  "Don't Panic"
+date:   2020-03-23
+categories: blog
+---
 # Don’t Panic
 
-In the midst of a crisis, the chance of [herd mentality](https://en.wikipedia.org/wiki/Herd_mentality) greatly increases. With [certain media groups and politicians fueling distrust](https://www.vox.com/2020/3/11/21175987/trump-travel-ban-europe-coronavirus-speech), [people are reacting by stocking up on guns and supplies](https://laist.com/2020/03/10/coronavirus-fears-chinese-immigrants-guns.php) in fear of impending disaster. What better way to explore the dangers of panic than through cinema.
+In the midst of a crisis, [herd mentality](https://en.wikipedia.org/wiki/Herd_mentality) tends to increase. [Certain media groups and politicians sow distrust](https://www.vox.com/2020/3/11/21175987/trump-travel-ban-europe-coronavirus-speech), causing [people to panic-buy supplies or even guns](https://laist.com/2020/03/10/coronavirus-fears-chinese-immigrants-guns.php). Cinema often explores the dangers of panic and groupthink.
 
-One prime example of herd mentality in film is [Claude Duvivier](https://www.imdb.com/name/nm0245213/)'s _[Panique](https://letterboxd.com/film/panic/)_ (1947). An examination of how the French could have supported their Nazi occupiers, _Panique_ gave a realistic look at how people will make decisions in a group that they wouldn't consider on their own. A man is accused of murder simply because he is a bit different than everyone else in town and a small group of vocal critics entice the crowd to turn on him.
+One classic example is *[Panique](https://letterboxd.com/film/panic/)* (1947) by [Julien Duvivier](https://www.imdb.com/name/nm0245213/) [corrected from “Claude Duvivier”]. An allegory for how the French could have supported Nazi occupiers, *Panique* realistically examines how people make decisions in a crowd that they would never make alone. When a man is accused of murder simply for being different, a small group’s vocal outrage eventually turns the entire town against him.
 
 <iframe width="660" height="371" src="https://www.youtube.com/embed/nXpddF9qBFA" title="PANIQUE - Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-While I'm more partial to the remake _[Monsieur Hire](https://letterboxd.com/film/monsieur-hire/)_ (1989), _Panique_ is a better example of the dangers of crowds making decisions in relation to a contemporary setting.
+While the remake, *[Monsieur Hire](https://letterboxd.com/film/monsieur-hire/)* (1989), is arguably more polished, *Panique* more directly addresses the danger of herd mentality in a contemporary post-WWII setting.
 
-Living in the Los Angeles area during this outbreak has given a greater sense of panic than other areas. People have sought out essential sanitary products to hoard and hide away. LA, and Hollywood in particular, have had a reputation for being behind the moral decay of this country. As ridiculous as it is, _[The Day of the Locust](https://letterboxd.com/film/the-day-of-the-locust/)_ (1975) uses this idea to nth degree culminating in another herd mentality finale. At a movie premiere, a broken man is hit by a rock and beats the child that threw it. A riot breaks out as they attack the man all while the radio personality mistakes the riot for excitement for the movie premiere.
+In Los Angeles, during the coronavirus outbreak, people scrambled for sanitary products and other items. LA is often stereotyped as morally or socially extreme; John Schlesinger’s *[The Day of the Locust](https://letterboxd.com/film/the-day-of-the-locust/)* (1975) took that idea to extremes, culminating in another frightening example of collective hysteria. During a movie premiere, tensions flare and a chaotic riot erupts when violence breaks out—yet radio commentators mistake the riot for excited moviegoers.
 
 <iframe width="660" height="371" src="https://www.youtube.com/embed/BQO5Xy2ebhs" title="The Burning of Los Angeles - The Day of the Locust (9/9) Movie CLIP (1975) HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Even when the film doesn't add up, the riot in _The Day of the Locust_ summarizes every anxiety presented in the story to that point. People relate to fear and will make the worst of a situation if they think something bad will happen to them. While other movies border on horror in presenting this sense of anxiety, a genre exercise in horror will show the worst in people. In _[Ringu 0](https://letterboxd.com/film/ringu-0/)_ (2000), the third in the [Japanese series](https://en.wikipedia.org/wiki/The_Ring_\(franchise\)\(franchise\)), Sadako's curse is explored in the fear she instilled in her theater troupe. As she is accused of hurting others, the crowd feeds on each others fears to build to anger.
+*The Day of the Locust* uses that riot to summarize its built-up anxieties. People easily succumb to fear, preparing for the worst once they sense any threat. Horror films often reveal the worst sides of humanity under pressure. In *[Ringu 0](https://letterboxd.com/film/ringu-0/)* (2000), the third in [the Japanese “Ring” series](https://en.wikipedia.org/wiki/The_Ring_(franchise)), Sadako’s curse stems from the fear she engenders in her theater troupe. As she’s blamed for strange occurrences, fear escalates to anger.
 
 <iframe width="660" height="371" src="https://www.youtube.com/embed/khuxV85_7NI" title="Ring 0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Fiction can be more truthful than reality, only because it's a distilled and focused version of reality. The level of panic with the latest coronavirus hasn't gotten too out of control, and hopefully it doesn't reach the irrational levels in the above movies.
+Fiction can be more “truthful” than reality in that it distills and focuses our anxieties. Hopefully, the real-world response to crises won’t match these movie scenarios—but these films remind us that panic can be as dangerous as any outbreak.
 
 ### Links
 
 #### Films
 
-- The Day of the Locust (1975) [[IMDb](https://www.imdb.com/title/tt0072848/reference) // [Letterboxd](https://letterboxd.com/film/the-day-of-the-locust/)]
-    
-- Monsieur Hire (1989) [[IMDb](https://www.imdb.com/title/tt0097904/reference) // [Letterboxd](https://letterboxd.com/film/monsieur-hire/)]
-    
-- Panique (1947) [[IMDb](https://www.imdb.com/title/tt0038824/reference) // [Letterboxd](https://letterboxd.com/film/panic/)]
-    
-- Ringu 0 (2000) [[IMDb](https://www.imdb.com/title/tt0235712/reference) // [Letterboxd](https://letterboxd.com/film/ringu-0/)]
-    
+- *The Day of the Locust* (1975)  
+  [[IMDb](https://www.imdb.com/title/tt0072848/reference) // [Letterboxd](https://letterboxd.com/film/the-day-of-the-locust/)]
+- *Monsieur Hire* (1989)  
+  [[IMDb](https://www.imdb.com/title/tt0097904/reference) // [Letterboxd](https://letterboxd.com/film/monsieur-hire/)]
+- *Panique* (1947)  
+  [[IMDb](https://www.imdb.com/title/tt0038824/reference) // [Letterboxd](https://letterboxd.com/film/panic/)]
+- *Ringu 0* (2000)  
+  [[IMDb](https://www.imdb.com/title/tt0235712/reference) // [Letterboxd](https://letterboxd.com/film/ringu-0/)]
 
 #### People
 
-- Julien Duvivier [[IMDb](https://www.imdb.com/name/nm0245213/) // [Wikipedia](https://en.wikipedia.org/wiki/Julien_Duvivier)]
-    
+- Julien Duvivier  
+  [[IMDb](https://www.imdb.com/name/nm0245213/) // [Wikipedia](https://en.wikipedia.org/wiki/Julien_Duvivier)]
 
-#### Reference
+#### References
 
 - [COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019)
-    
 - [Herd Mentality](https://en.wikipedia.org/wiki/Herd_mentality)
-    
 - [The Ring Franchise](https://en.wikipedia.org/wiki/The_Ring_\(franchise\))
-    
 
 #### Articles
 
-- [Coronavirus Fears Drive Chinese Immigrants To SGV Gun Shops](https://laist.com/2020/03/10/coronavirus-fears-chinese-immigrants-guns.php)
-    
-- [The Other Problematic Outbreak](https://www.theatlantic.com/international/archive/2020/03/coronavirus-covid19-xenophobia-racism/607816/)
+- [“Coronavirus Fears Drive Chinese Immigrants to SGV Gun Shops,” *LAist*](https://laist.com/2020/03/10/coronavirus-fears-chinese-immigrants-guns.php)
+- [“The Other Problematic Outbreak,” *The Atlantic*](https://www.theatlantic.com/international/archive/2020/03/coronavirus-covid19-xenophobia-racism/607816/)
