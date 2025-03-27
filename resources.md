@@ -1,26 +1,47 @@
 ---
 layout: page
-title: Resources
 permalink: /resources/
 ---
 
-## Recommended Tools & Reading
+![Resources](/assets/images/Button_Resources.png)
 
 Here are some tools, texts, and websites that have helped shape my thinking about film, criticism, and technique.
 
-### 🛠️ Tools
-- [ShotDeck](https://shotdeck.com/) — A searchable database of high-quality film stills.
-- [Frame.io](https://frame.io/) — Collaborative platform for video review and feedback.
 
-### 📚 Books
-- *In the Blink of an Eye* by Walter Murch  
-- *Sculpting in Time* by Andrei Tarkovsky  
-- *Film Art: An Introduction* by Bordwell & Thompson
+Film Credits
+*   [IMDb - Internet Movie Database](https://www.imdb.com/)
+*   [TMDb - The Movie Database](https://www.themoviedb.org/)
 
-### 🌐 Links
-- [Letterboxd](https://letterboxd.com/trevornwilliams/) — Follow my viewing log and reviews.
-- [The Criterion Channel](https://www.criterionchannel.com/) — Streaming service with a great collection of films and extras.
+Film Industry
+*   [The Anonymous Production Assistant](http://www.anonymousproductionassistant.com/)
+
+Filmmaking
+*   [NoFilmSchool](https://nofilmschool.com/)
+
+Film Studies
+*   [Observations on Film Art](http://www.davidbordwell.net/blog/)
+*   [Senses of Cinema](http://sensesofcinema.com/)
+
+News
+*   [Deadline](https://deadline.com/)
+*   [Experimental Cinema](https://expcinema.org/site/en)
+*   [IndieWire](https://www.indiewire.com/)
+*   [ScreenAnarchy](https://screenanarchy.com/)
+
+Periodicals
+*   [American Cinematographer](https://ascmag.com/)
+*   [Cineaste](https://www.cineaste.com/)
+*   [Film Comment](https://www.filmcomment.com/)
+*   [MovieMaker](http://www.moviemaker.com/)
+*   [Perspective](https://adg.org/perspective/)
+*   [Sight & Sound](https://www.bfi.org.uk/sight-and-sound)
+*   [Variety](https://www.variety.com/)
+
+Social
+*   [Letterboxd](https://letterboxd.com/)
+
+Video Essays
+*   [Every Frame a Painting](https://everyframeapainting.tumblr.com/)
+*   [Kogonada](http://kogonada.com/)
 
 ---
-
-If you’d like to suggest additions, feel free to email me at [trevor@filmframefocus.com](mailto:trevor@filmframefocus.com).

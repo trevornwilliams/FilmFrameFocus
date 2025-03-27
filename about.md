@@ -1,12 +1,13 @@
 ---
 layout: page
-title: About
 permalink: /about/
 ---
 
-![About](/assets/images/About.png)
+![About](/assets/images/Button_About.png)
+![About](/assets/images/Illustration_About.png)
 
-FilmFrameFocus is my personal exploration of the history of film and the techniques that bring it to life. The posts on this site delve into elements of cinema that have captured my interest and inspired deeper investigation.
+
+FilmFrameFocus is a personal exploration of the history of film and the techniques that bring it to life. The posts on this site delve into elements of cinema that have captured my interest and inspired deeper investigation.
 
 While FilmFrameFocus reflects my longstanding passion for cinema, my professional work involves numerous film and television productions. For work-related inquiries, you can find me on [LinkedIn](https://www.linkedin.com/in/trevornwilliams/).
 
