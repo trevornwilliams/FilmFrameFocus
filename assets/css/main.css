@@ -6,8 +6,9 @@
   margin: 0;
   padding: 0;
 }
-
-body {
+html, body {
+  height: 100%;
+  margin: 0;
   font-family: 'EB Garamond', serif;
   line-height: 1.6;
   color: #24292e;
@@ -20,7 +21,7 @@ body {
   background: #ffffff;
   margin: 0 auto;
   position: relative;
-  width: 600px;
+  width: 50%;
 }
 
 /* Center and size all images inside post/page content */
@@ -39,17 +40,11 @@ body {
   height: auto;
 }
 
-@media (min-width: 768px) {
-  .container {
-    width: 75%;
-  }
-}
-
 /* Header Styles */
 #header {
   background-color: transparent;
   border-bottom: 1px solid #000000;
-  padding: 20px;
+  padding: 10px;
 }
 
 .header-container {
@@ -91,6 +86,12 @@ body {
   padding: 24px 0;
 }
 
+.site-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* full viewport height */
+}
+
 /* Post Layout Styles */
 .post {
   display: flex;
@@ -105,7 +106,7 @@ body {
   bottom: 0;
   color: #fff;
   margin-top: auto;
-  padding: 20px 0;
+  padding: 10px 0;
   position: fixed;
   text-align: center;
   width: 100%;
@@ -139,7 +140,7 @@ body {
 
   #footer .footer-content {
     flex-direction: column;
-    gap: 16px;
+    gap: 10px;
   }
 }
 
@@ -160,8 +161,9 @@ a:hover {
 }
 
 /* Content Styling */
-.content p {
-  margin-bottom: 16px;
+.content {
+  flex: 1; /* takes up all remaining space */
+  padding-bottom: 2rem; /* or whatever height your footer is */
 }
 
 .content ul,

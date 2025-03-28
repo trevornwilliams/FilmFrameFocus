@@ -18,40 +18,42 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" />
 </head>
 <body>
-  <!-- p5.js Sketch Container (background) -->
-  <div id="sketch-container"></div>
+  <div class="site-wrapper">
+    <!-- p5.js Sketch Container (background) -->
+    <div id="sketch-container"></div>
 
-  <!-- Header with Logo and Navigation -->
-  <header id="header">
-    <div class="header-container">
-      <div class="logo">
-        <a href="{{ '/' | relative_url }}">
-          <img src="{{ '/assets/images/Logo.png' | relative_url }}" alt="{{ site.title }} Logo">
-        </a>
+    <!-- Header with Logo and Navigation -->
+    <header id="header">
+      <div class="header-container">
+        <div class="logo">
+          <a href="{{ '/' | relative_url }}">
+            <img src="{{ '/assets/images/Logo.png' | relative_url }}" alt="{{ site.title }} Logo">
+          </a>
+        </div>
+        <nav class="nav-menu">
+          <ul>
+            <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+            <li><a href="https://letterboxd.com/trevornwilliams/" target="_blank" rel="noopener">Film Diary</a></li>
+            <li><a href="{{ '/resources/' | relative_url }}">Resources</a></li>
+          </ul>
+        </nav>
       </div>
-      <nav class="nav-menu">
-        <ul>
-          <li><a href="{{ '/about/' | relative_url }}">About</a></li>
-          <li><a href="https://letterboxd.com/trevornwilliams/" target="_blank" rel="noopener">Film Diary</a></li>
-          <li><a href="{{ '/resources/' | relative_url }}">Resources</a></li>
-        </ul>
-      </nav>
-    </div>
-  </header>
+    </header>
 
-  <!-- Main Content Area -->
-  <main>
-    {{ content }}
-  </main>
+    <!-- Main Content Area -->
+    <main class="content">
+      {{ content }}
+    </main>
 
-  <!-- Footer with Social Icons -->
-  <footer id="footer">
-    <div class="footer-content">
-      <a href="mailto:{{ site.email }}" aria-label="Email"><i class="ri-mail-line"></i></a>
-      <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" aria-label="LinkedIn"><i class="ri-linkedin-box-fill"></i></a>
-      <a href="https://github.com/{{ site.github_username }}" aria-label="GitHub"><i class="ri-github-fill"></i></a>
-    </div>
-  </footer>
+    <!-- Footer with Social Icons -->
+    <footer id="footer">
+      <div class="footer-content">
+        <a href="mailto:{{ site.email }}" aria-label="Email"><i class="ri-mail-line"></i></a>
+        <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" aria-label="LinkedIn"><i class="ri-linkedin-box-fill"></i></a>
+        <a href="https://github.com/{{ site.github_username }}" aria-label="GitHub"><i class="ri-github-fill"></i></a>
+      </div>
+    </footer>
+  </div>
 
   <!-- JavaScript: Main interactions and p5.js sketch -->
   <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
