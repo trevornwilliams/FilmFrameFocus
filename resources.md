@@ -7,28 +7,33 @@ permalink: /resources/
 
 Here are some tools, texts, and websites that have helped shape my thinking about film, criticism, and technique.
 
+### Film Credits
 
-Film Credits
 *   [IMDb - Internet Movie Database](https://www.imdb.com/)
 *   [TMDb - The Movie Database](https://www.themoviedb.org/)
 
-Film Industry
+### Film Industry
+
 *   [The Anonymous Production Assistant](http://www.anonymousproductionassistant.com/)
 
-Filmmaking
+### Filmmaking
+
 *   [NoFilmSchool](https://nofilmschool.com/)
 
-Film Studies
+### Film Studies
+
 *   [Observations on Film Art](http://www.davidbordwell.net/blog/)
 *   [Senses of Cinema](http://sensesofcinema.com/)
 
-News
+### News
+
 *   [Deadline](https://deadline.com/)
 *   [Experimental Cinema](https://expcinema.org/site/en)
 *   [IndieWire](https://www.indiewire.com/)
-*   [ScreenAnarchy](https://screenanarchy.com/)
+*   [ScreenAnarchy](https://screenanarchy.com/)  
 
-Periodicals
+### Periodicals
+
 *   [American Cinematographer](https://ascmag.com/)
 *   [Cineaste](https://www.cineaste.com/)
 *   [Film Comment](https://www.filmcomment.com/)
@@ -37,11 +42,11 @@ Periodicals
 *   [Sight & Sound](https://www.bfi.org.uk/sight-and-sound)
 *   [Variety](https://www.variety.com/)
 
-Social
+### Social
+
 *   [Letterboxd](https://letterboxd.com/)
 
-Video Essays
+### Video Essays
+
 *   [Every Frame a Painting](https://everyframeapainting.tumblr.com/)
 *   [Kogonada](http://kogonada.com/)
-
----

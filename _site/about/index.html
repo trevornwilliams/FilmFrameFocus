@@ -5,9 +5,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>FilmFrameFocus</title>
   <meta name="description" content="Diary of a film worker">
+  
+  <!-- EB Garamond from Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600&display=swap" rel="stylesheet">
+  
+  <!-- Main CSS -->
   <link rel="stylesheet" href="/assets/css/main.css">
+  <!-- p5.js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.10.0/p5.min.js"></script>
+  
+  <!-- Remix Icons for social icons in footer -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" />
 </head>
 <body>
+  <!-- p5.js Sketch Container (background) -->
+  <div id="sketch-container"></div>
+
   <!-- Header with Logo and Navigation -->
   <header id="header">
     <div class="header-container">
@@ -19,14 +32,16 @@
       <nav class="nav-menu">
         <ul>
           <li><a href="/about/">About</a></li>
-          <li><a href="https://letterboxd.com/YOUR_LETTERBOXD_USERNAME" target="_blank" rel="noopener">Film Diary</a></li>
+          <li><a href="https://letterboxd.com/trevornwilliams/" target="_blank" rel="noopener">Film Diary</a></li>
           <li><a href="/resources/">Resources</a></li>
         </ul>
       </nav>
     </div>
   </header>
-  
+
   <!-- Main Content Area -->
+  <main>
+      <!-- Main Content Area -->
   <main>
     <div class="container">
       <p><img src="/assets/images/Button_About.png" alt="About" />
@@ -44,7 +59,8 @@
 
     </div>
   </main>
-  
+  </main>
+
   <!-- Footer with Social Icons -->
   <footer id="footer">
     <div class="footer-content">
@@ -53,5 +69,9 @@
       <a href="https://github.com/trevornwilliams" aria-label="GitHub"><i class="ri-github-fill"></i></a>
     </div>
   </footer>
+
+  <!-- JavaScript: Main interactions and p5.js sketch -->
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/sketch.js"></script>
 </body>
 </html>

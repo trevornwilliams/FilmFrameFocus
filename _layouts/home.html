@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<div class="home">
-  <h2 class="post-list-heading">Posts</h2>
+<div class="container">
+  <img src="{{ '/assets/images/Button_Blog.png' | relative_url }}" alt="{{ site.title }} Blog"> 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -15,5 +15,4 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 </div>

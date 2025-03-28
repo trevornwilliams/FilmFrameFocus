@@ -5,9 +5,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>FilmFrameFocus</title>
   <meta name="description" content="Diary of a film worker">
+  
+  <!-- EB Garamond from Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600&display=swap" rel="stylesheet">
+  
+  <!-- Main CSS -->
   <link rel="stylesheet" href="/assets/css/main.css">
+  <!-- p5.js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.10.0/p5.min.js"></script>
+  
+  <!-- Remix Icons for social icons in footer -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" />
 </head>
 <body>
+  <!-- p5.js Sketch Container (background) -->
+  <div id="sketch-container"></div>
+
   <!-- Header with Logo and Navigation -->
   <header id="header">
     <div class="header-container">
@@ -19,43 +32,50 @@
       <nav class="nav-menu">
         <ul>
           <li><a href="/about/">About</a></li>
-          <li><a href="https://letterboxd.com/YOUR_LETTERBOXD_USERNAME" target="_blank" rel="noopener">Film Diary</a></li>
+          <li><a href="https://letterboxd.com/trevornwilliams/" target="_blank" rel="noopener">Film Diary</a></li>
           <li><a href="/resources/">Resources</a></li>
         </ul>
       </nav>
     </div>
   </header>
-  
+
   <!-- Main Content Area -->
+  <main>
+      <!-- Main Content Area -->
   <main>
     <div class="container">
       <p><img src="/assets/images/Button_Resources.png" alt="Resources" /></p>
 
 <p>Here are some tools, texts, and websites that have helped shape my thinking about film, criticism, and technique.</p>
 
-<p>Film Credits</p>
+<h3 id="film-credits">Film Credits</h3>
+
 <ul>
   <li><a href="https://www.imdb.com/">IMDb - Internet Movie Database</a></li>
   <li><a href="https://www.themoviedb.org/">TMDb - The Movie Database</a></li>
 </ul>
 
-<p>Film Industry</p>
+<h3 id="film-industry">Film Industry</h3>
+
 <ul>
   <li><a href="http://www.anonymousproductionassistant.com/">The Anonymous Production Assistant</a></li>
 </ul>
 
-<p>Filmmaking</p>
+<h3 id="filmmaking">Filmmaking</h3>
+
 <ul>
   <li><a href="https://nofilmschool.com/">NoFilmSchool</a></li>
 </ul>
 
-<p>Film Studies</p>
+<h3 id="film-studies">Film Studies</h3>
+
 <ul>
   <li><a href="http://www.davidbordwell.net/blog/">Observations on Film Art</a></li>
   <li><a href="http://sensesofcinema.com/">Senses of Cinema</a></li>
 </ul>
 
-<p>News</p>
+<h3 id="news">News</h3>
+
 <ul>
   <li><a href="https://deadline.com/">Deadline</a></li>
   <li><a href="https://expcinema.org/site/en">Experimental Cinema</a></li>
@@ -63,7 +83,8 @@
   <li><a href="https://screenanarchy.com/">ScreenAnarchy</a></li>
 </ul>
 
-<p>Periodicals</p>
+<h3 id="periodicals">Periodicals</h3>
+
 <ul>
   <li><a href="https://ascmag.com/">American Cinematographer</a></li>
   <li><a href="https://www.cineaste.com/">Cineaste</a></li>
@@ -74,22 +95,23 @@
   <li><a href="https://www.variety.com/">Variety</a></li>
 </ul>
 
-<p>Social</p>
+<h3 id="social">Social</h3>
+
 <ul>
   <li><a href="https://letterboxd.com/">Letterboxd</a></li>
 </ul>
 
-<p>Video Essays</p>
+<h3 id="video-essays">Video Essays</h3>
+
 <ul>
   <li><a href="https://everyframeapainting.tumblr.com/">Every Frame a Painting</a></li>
   <li><a href="http://kogonada.com/">Kogonada</a></li>
 </ul>
 
-<hr />
-
     </div>
   </main>
-  
+  </main>
+
   <!-- Footer with Social Icons -->
   <footer id="footer">
     <div class="footer-content">
@@ -98,5 +120,9 @@
       <a href="https://github.com/trevornwilliams" aria-label="GitHub"><i class="ri-github-fill"></i></a>
     </div>
   </footer>
+
+  <!-- JavaScript: Main interactions and p5.js sketch -->
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/sketch.js"></script>
 </body>
 </html>
