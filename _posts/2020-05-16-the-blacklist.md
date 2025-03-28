@@ -6,7 +6,15 @@ categories: blog
 ---
 # The Blacklist
 
-<iframe width="660" height="495" src="https://www.youtube.com/embed/NdLuNtbSAck" title="Hollywood Stars In Communist Activities (1947)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe 
+    src="https://www.youtube.com/embed/NdLuNtbSAck" 
+    title="Hollywood Stars In Communist Activities (1947)"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 Cinema is a powerful medium for communicating ideas. It can normalize perspectives and shape society. Any attempt to suppress free expression—whether by law or intimidation—threatens the arts. As America’s political divide widens, some fear a renewed stifling of speech. This evokes the era when the House Committee on Un-American Activities (HUAC) targeted Hollywood, ultimately imprisoning ten men for refusing to cooperate in 1947.
 
@@ -42,7 +50,15 @@ The eleventh unfriendly witness was [Bertolt Brecht](https://en.wikipedia.org/wi
 
 This campaign effectively destroyed careers and chilled creative expression. Chairman Thomas claimed to protect America from communist influence but instead demonstrated how fragile free speech can be when fear rules.
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/mmeTKECkM2U" title="Victims of Hollywood&#39;s Blacklist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe 
+    src="https://www.youtube.com/embed/mmeTKECkM2U" 
+    title="Victims of Hollywood's Blacklist"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 ### Links
 

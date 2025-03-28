@@ -34,7 +34,7 @@ While there are still some uses for optical printers with [photochemical](https:
 
 Experimental filmmakers often work alone and must be competent as cinematographer, film lab, and editor to use an optical printer. One of the most famous experimental filmmakers was [Norm McLaren](https://en.wikipedia.org/wiki/Norman_McLaren). He won an Oscar for his short [_Neighbours_](https://letterboxd.com/film/neighbours/) (1952), but his greatest work is arguably [_Pas de deux_](https://letterboxd.com/film/pas-de-deux/) (1968).
 
-&lt;br/&gt;
+
 
 The effects in _Pas de Deux_ can easily be recreated in almost any [Non-Linear Editor](https://en.wikipedia.org/wiki/Non-linear_editing_system) now. Digital effects allow for a quicker creation, but it doesn't account for creative output. Working in a dark room with an optical printer, McLaren worked frame by frame, having to wait until the footage was processed at a [lab](https://en.wikipedia.org/wiki/Film_laboratory) to confirm that it turned out as he expected.
 

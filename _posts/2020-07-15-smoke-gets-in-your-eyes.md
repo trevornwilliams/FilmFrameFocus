@@ -10,7 +10,15 @@ After finally watching *[The Bitter Tears of Petra von Kant](https://www.imdb.co
 
 Originally a 1933 show tune, it appeared in three films—*[Roberta](https://www.imdb.com/title/tt0026942/reference)* (1935), *[Till the Clouds Roll By](https://www.imdb.com/title/tt0039035/reference)* (1946), and *[Lovely to Look At](https://www.imdb.com/title/tt0044855/reference)* (1952)—before [The Platters](https://en.wikipedia.org/wiki/The_Platters) recorded their famous 1958 version, which hit number one on the Billboard charts. Since then, The Platters’ cover has been featured in at least 24 movies, but *The Bitter Tears of Petra von Kant* was the first to use it (in 1972).
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/2WnTfjCEohs" title="The Platters - Smoke Gets in Your Eyes (from &quot;The Bitter Tears of Petra von Kant&quot;)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe 
+    src="https://www.youtube.com/embed/2WnTfjCEohs" 
+    title="The Platters - Smoke Gets in Your Eyes (from &quot;The Bitter Tears of Petra von Kant&quot;)" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 [Rainer Werner Fassbinder](https://en.wikipedia.org/wiki/Rainer_Werner_Fassbinder) used it to illustrate the dynamic between Petra and her employee Marlene, injecting immediate romanticism yet hinting at the tension beneath the glamour.
 
@@ -18,7 +26,15 @@ Certain directors—[Kenneth Anger](https://en.wikipedia.org/wiki/Kenneth_Anger)
 
 The song’s first American film usage came from [George Lucas](https://en.wikipedia.org/wiki/George_Lucas) in *[American Graffiti](https://letterboxd.com/film/american-graffiti/)* (1973).
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/j1q-QWHUU0g" title="American Graffiti (3/10) Movie CLIP - A Snowball Dance (1973) HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe 
+    src="https://www.youtube.com/embed/j1q-QWHUU0g" 
+    title="American Graffiti (3/10) Movie CLIP - A Snowball Dance (1973) HD" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 Lucas staged a fight between [Ron Howard](https://en.wikipedia.org/wiki/Ron_Howard) and [Cindy Williams](https://en.wikipedia.org/wiki/Cindy_Williams) against the sweet slow-dance backdrop, the song’s romantic veneer highlighting their drifting apart.
 

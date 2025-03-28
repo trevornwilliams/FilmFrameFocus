@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-27T21:36:43-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">FilmFrameFocus</title><subtitle>Diary of a film worker</subtitle><entry><title type="html">Symbiopsychotaxiplasm and the Artifice of Filmmaking</title><link href="http://localhost:4000/blog/2020/09/21/symbiopsychotaxiplasm-and-the-artifice-of-filmmaking.html" rel="alternate" type="text/html" title="Symbiopsychotaxiplasm and the Artifice of Filmmaking" /><published>2020-09-21T00:00:00-07:00</published><updated>2020-09-21T00:00:00-07:00</updated><id>http://localhost:4000/blog/2020/09/21/symbiopsychotaxiplasm-and-the-artifice-of-filmmaking</id><content type="html" xml:base="http://localhost:4000/blog/2020/09/21/symbiopsychotaxiplasm-and-the-artifice-of-filmmaking.html"><![CDATA[<h1 id="symbiopsychotaxiplasm-and-the-filmmaking-process">Symbiopsychotaxiplasm and the Filmmaking Process</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-28T14:48:23-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">FilmFrameFocus</title><subtitle>Diary of a film worker</subtitle><entry><title type="html">Art vs. Artifice</title><link href="http://localhost:4000/blog/2020/09/21/art-vs-artifice.html" rel="alternate" type="text/html" title="Art vs. Artifice" /><published>2020-09-21T00:00:00-07:00</published><updated>2020-09-21T00:00:00-07:00</updated><id>http://localhost:4000/blog/2020/09/21/art-vs-artifice</id><content type="html" xml:base="http://localhost:4000/blog/2020/09/21/art-vs-artifice.html"><![CDATA[<h1 id="art-vs-artifice">Art vs. Artifice</h1>
 
 <div class="video-container">
-<iframe width="750" height="422" src="https://www.youtube-nocookie.com/embed/yn4rJLzv4Jk?si=fIyZWPGFdTIsbXFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/yn4rJLzv4Jk?si=fIyZWPGFdTIsbXFI" title="Symbiopsychotaxiplasm: Take One - Clip" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+  </iframe>
 </div>
+
 <p>In the Spring of 1968, <a href="https://www.imdb.com/name/nm0337348">William Greaves</a> set out to make a film about filmmaking. He called it “a fragment of the Godhead which is made up of other Godhead fragments.” This movie became <em><a href="https://www.imdb.com/title/tt0296881">Symbiopsychotaxiplasm: Take One</a></em> (1968).</p>
 
 <p>Symbiopsychotaxiplasm is a deconstruction of the filmic form. The basic elements of the cinema are based around the non-existence of apparent camera and sound equipment. Based on the Hollywood-Mosfilm model by which most films are created, filmmaking techniques are supposed to be invisible.</p>
@@ -108,34 +110,49 @@
   <li>
     <p>Wollen, Peter. “Godard And Counter Cinema: Vent D’Est.” Film Theory And Criticism. Ed. Leo Braudy and Marshall Cohen. 7th ed. New York: Oxford UP, 2009. 418-26. Print.</p>
   </li>
-</ul>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Symbiopsychotaxiplasm and the Filmmaking Process]]></summary></entry><entry><title type="html">Cinema’s Puppets</title><link href="http://localhost:4000/blog/2020/08/25/cinemas-puppets.html" rel="alternate" type="text/html" title="Cinema’s Puppets" /><published>2020-08-25T00:00:00-07:00</published><updated>2020-08-25T00:00:00-07:00</updated><id>http://localhost:4000/blog/2020/08/25/cinemas-puppets</id><content type="html" xml:base="http://localhost:4000/blog/2020/08/25/cinemas-puppets.html"><![CDATA[<h1 id="cinemas-puppets">Cinema’s Puppets</h1>
+</ul>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Art vs. Artifice]]></summary></entry><entry><title type="html">Cinema’s Puppets</title><link href="http://localhost:4000/blog/2020/08/25/cinemas-puppets.html" rel="alternate" type="text/html" title="Cinema’s Puppets" /><published>2020-08-25T00:00:00-07:00</published><updated>2020-08-25T00:00:00-07:00</updated><id>http://localhost:4000/blog/2020/08/25/cinemas-puppets</id><content type="html" xml:base="http://localhost:4000/blog/2020/08/25/cinemas-puppets.html"><![CDATA[<h1 id="cinemas-puppets">Cinema’s Puppets</h1>
 
 <p><a href="https://en.wikipedia.org/wiki/Puppetry">Puppetry</a> has been an important part of cinema since the silent days. There are several types of puppetry and a variety of controls in their operation. There are physical manipulations such as <a href="https://en.wikipedia.org/wiki/Hand_puppet">hand and rod puppetry</a>, but there are also more mechanical means such as cable control and <a href="https://en.wikipedia.org/wiki/Servomotor">servo motors</a>. These last two are what blur the line between puppets and <a href="https://en.wikipedia.org/wiki/Animatronics">animatronics</a>.</p>
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/dCoqaaVD7-A" title="Puppet Show | Lili | Warner Archive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/dCoqaaVD7-A" title="Puppet Show | Lili | Warner Archive" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+  </iframe>
+</div>
 
 <p>In <em><a href="https://letterboxd.com/film/lili/">Lili</a></em> (1953), <a href="https://www.imdb.com/name/nm0001989">Leslie Caron</a> plays a 16-year-old girl who gets entranced by a puppet show. When she should be working, she interacts with the puppets as if they are living, sentient beings. Even though Caron’s portrayal is to show her naivete, this captures an essential part of puppetry. Puppetry relies on the association of the real to make an audience believe in the movement of inanimate objects.</p>
 
 <p>Since puppetry is a real time manipulation of objects, it can also loosely apply to the physical manipulation of people as seen in the Japanese film <em><a href="https://letterboxd.com/film/double-suicide">Double Suicide</a></em> (1969).</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mzULuVYa6t0?si=CsDu7lPUMY_V__CJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/mzULuVYa6t0?si=CsDu7lPUMY_V__CJ" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+  </iframe>
+</div>
 
 <p><em>Double Suicide</em> is based on the <a href="https://en.wikipedia.org/wiki/Bunraku">bunraku</a> play <em><a href="https://en.wikipedia.org/wiki/The_Love_Suicides_at_Amijima">The Love Suicides at Amijima</a></em>. While <a href="https://www.imdb.com/name/nm0793983">Masahiro Shinoda</a> used actors in his story, the film begins with setting up a bunraku style puppet show and includes <a href="https://en.wikipedia.org/wiki/Kuroko">kuroku</a> (stagehands dressed in all black) to manipulate the actors just as they would the puppets in a typical bunraku performance.</p>
 
 <p>While most puppet related films had actors as the protagonists up to this point, once <a href="https://www.imdb.com/name/nm0001345">Jim Henson</a> introduced his <a href="https://en.wikipedia.org/wiki/The_Muppets">Muppets</a> to the world puppets could take the spotlight. Henson was always at the technological forefront for what could be done in puppetry, but it wasn’t until <em><a href="https://letterboxd.com/film/the-dark-crystal/">The Dark Crystal</a></em> (1982) that his innovation caught up enough to be able to make an all encompassing puppet-based world for film.</p>
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/CuqLsZ4qkNY" title="The Dark Crystal - Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/CuqLsZ4qkNY" title="The Dark Crystal - Trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+  </iframe>
+</div>
 
 <p>Undoubtedly, Jim Henson is the most influential figure in modern puppetry. <em>The Dark Crystal</em> became a cult classic after an initially poor run at the box office and <a href="https://en.wikipedia.org/wiki/Jim_Henson's_Creature_Shop's_Creature_Shop">Jim Henson’s Creature Shop</a> is still a pre-eminent force in the creation of puppets and animatronics.</p>
 
 <p>Beyond the influence of Henson, puppetry is otherwise relatively uncommon in films in the past few decades. There are a few great films that feature puppeteers such as <em><a href="https://letterboxd.com/film/the-double-life-of-veronique/">The Double Life of Veronique</a></em> (1991) or <em><a href="https://letterboxd.com/film/the-puppetmaster/">The Puppetmaster</a></em> (1993), but the most influential would probably be <em><a href="https://letterboxd.com/film/being-john-malkovich/">Being John Malkovich</a></em> (1999). While the puppetry is seemingly based in satire, it also accurately shows what it’s like to be a puppeteer.</p>
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/25_F9irGdow" title="Being John Malkovich (10/11) Movie CLIP - John Malkovich Becomes a Puppeteer (1999) HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/25_F9irGdow" title="Being John Malkovich (10/11) Movie CLIP - John Malkovich Becomes a Puppeteer (1999) HD" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+  </iframe>
+</div>
 
 <p>As puppets and animatronics have mostly been replaced by <a href="https://en.wikipedia.org/wiki/Computer-generated_imagery">CGI</a> in film in the past twenty years, there are still some interesting puppet-based works, primarily in short films. <a href="https://www.imdb.com/name/nm0378210">Heather Henson</a>’s <a href="https://www.handmadepuppetdreams.com/">Handmade Puppet Dreams</a> is a great resource for filmmakers embracing puppetry.</p>
 
 <p>One feature film to come out of Handmade Puppet Dreams is <em><a href="https://letterboxd.com/film/yamasong-march-of-the-hollows/">Yamasong: March of the Hollows</a></em> (2017). A visually stunning film that shows the possibilities of the medium on a limited budget.</p>
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/3bvb4BDu0rM" title="Yamasong: March of the Hollows Official Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/3bvb4BDu0rM" title="Yamasong: March of the Hollows Official Trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+  </iframe>
+</div>
 
 <h3 id="links">Links</h3>
 
@@ -215,7 +232,10 @@
 
 <p>Originally a 1933 show tune, it appeared in three films—<em><a href="https://www.imdb.com/title/tt0026942/reference">Roberta</a></em> (1935), <em><a href="https://www.imdb.com/title/tt0039035/reference">Till the Clouds Roll By</a></em> (1946), and <em><a href="https://www.imdb.com/title/tt0044855/reference">Lovely to Look At</a></em> (1952)—before <a href="https://en.wikipedia.org/wiki/The_Platters">The Platters</a> recorded their famous 1958 version, which hit number one on the Billboard charts. Since then, The Platters’ cover has been featured in at least 24 movies, but <em>The Bitter Tears of Petra von Kant</em> was the first to use it (in 1972).</p>
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/2WnTfjCEohs" title="The Platters - Smoke Gets in Your Eyes (from &quot;The Bitter Tears of Petra von Kant&quot;)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/2WnTfjCEohs" title="The Platters - Smoke Gets in Your Eyes (from &quot;The Bitter Tears of Petra von Kant&quot;)" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+  </iframe>
+</div>
 
 <p><a href="https://en.wikipedia.org/wiki/Rainer_Werner_Fassbinder">Rainer Werner Fassbinder</a> used it to illustrate the dynamic between Petra and her employee Marlene, injecting immediate romanticism yet hinting at the tension beneath the glamour.</p>
 
@@ -223,7 +243,10 @@
 
 <p>The song’s first American film usage came from <a href="https://en.wikipedia.org/wiki/George_Lucas">George Lucas</a> in <em><a href="https://letterboxd.com/film/american-graffiti/">American Graffiti</a></em> (1973).</p>
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/j1q-QWHUU0g" title="American Graffiti (3/10) Movie CLIP - A Snowball Dance (1973) HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/j1q-QWHUU0g" title="American Graffiti (3/10) Movie CLIP - A Snowball Dance (1973) HD" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+  </iframe>
+</div>
 
 <p>Lucas staged a fight between <a href="https://en.wikipedia.org/wiki/Ron_Howard">Ron Howard</a> and <a href="https://en.wikipedia.org/wiki/Cindy_Williams">Cindy Williams</a> against the sweet slow-dance backdrop, the song’s romantic veneer highlighting their drifting apart.</p>
 
@@ -289,119 +312,25 @@
   <li><a href="https://en.wikipedia.org/wiki/Cinema_of_Taiwan#New_Taiwanese_Cinema,_1982–1990">New Taiwanese Cinema</a></li>
   <li><a href="https://en.wikipedia.org/wiki/The_Platters">The Platters</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Smoke_Gets_in_Your_Eyes">Smoke Gets in Your Eyes</a></li>
-</ul>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Smoke Gets in Your Eyes]]></summary></entry><entry><title type="html">Cinephile</title><link href="http://localhost:4000/blog/2020/07/15/cinephile.html" rel="alternate" type="text/html" title="Cinephile" /><published>2020-07-15T00:00:00-07:00</published><updated>2020-07-15T00:00:00-07:00</updated><id>http://localhost:4000/blog/2020/07/15/cinephile</id><content type="html" xml:base="http://localhost:4000/blog/2020/07/15/cinephile.html"><![CDATA[<h1 id="cinephile">Cinephile</h1>
-
-<p><img src="https://images.squarespace-cdn.com/content/v1/5e13b779a521ce05b02b31c9/1580166301987-47R53OH9ABUX8QZS9Q4J/LaMamanEtLaPutain1973.jpeg" alt="LaMamanEtLaPutain1973.jpeg" /></p>
-
-<p>Last night, I watched <a href="https://letterboxd.com/film/the-mother-and-the-whore/"><em>The Mother and the Whore</em></a> (1973) for the first time. It’s a film made by a <a href="https://en.wikipedia.org/wiki/Cinephilia">cineaste</a> about a <a href="https://en.wikipedia.org/wiki/Cinephilia">cinephile</a>, and since it’s been difficult to find in the US, it’s mainly cinephiles that seek it out. Certain movies are difficult to find for one reason or another and there isn’t too much information on how to easily track them down.</p>
-
-<p>When <a href="https://en.wikipedia.org/wiki/FilmStruck">FilmStruck</a> shut down, it showed that the availability of titles could easily narrow instead of expand. There hadn’t been such disappointing news for the cinephile community since <a href="https://en.wikipedia.org/wiki/New_Yorker_Films">New Yorker Films</a> shuttered in 2009. (<em>The Mother and the Whore</em> is one of those films that became harder to find after New Yorker Films shut down, though it’s currently available on <a href="https://youtu.be/gFHn4xPeW14">YouTube</a> to stream for free.) Thankfully there are many wonderful services –such as <a href="https://www.criterionchannel.com">Criterion Channel</a> and <a href="https://mubi.com">Mubi</a>– that have replaced FilmStruck in the past year. The problem with having so many streaming services available is picking which ones have the right movies for you and easily searching within them.</p>
-
-<p>The first place I check when I want to watch something is <a href="https://letterboxd.com">Letterboxd</a>. While I initially used it as a film diary, it has become even more useful since they integrated <a href="https://www.justwatch.com">JustWatch</a> into their platform. (If you don’t want to upgrade your Letterboxd account to Pro, JustWatch itself is a great resource to find which services have a specific movie to stream.) Whether or not the title is available, of course, depends on the services listed on JustWatch. There are some mistakes on the availability of certain titles (ex. Rohmer’s <em><a href="https://letterboxd.com/film/rendezvous-in-paris-1995/">Rendezvous in Paris</a></em> (1995) is on Amazon Prime, but oddly missing from a search on JustWatch), though overall it is a great place to start.</p>
-
-<p>The rarer the film, the more research it will take to find a watchable version. If you’re looking for something that was only screened in a gallery setting, you often have to find go to that specific gallery to see it. While you can often find hard to find works on YouTube or <a href="http://www.ubu.com">UbuWeb</a>, many are still unavailable digitally. <a href="https://en.wikipedia.org/wiki/Peter_Kubelka">Peter Kubelka</a> hasn’t allowed his work to be <a href="https://en.wikipedia.org/wiki/Telecine">telecined</a>, insisting it be projected as he originally intended. This is the same with many other <a href="https://en.wikipedia.org/wiki/Underground_film">underground filmmakers</a>. <a href="https://en.wikipedia.org/wiki/Ken_Jacobs">Ken Jacobs</a>’ <a href="https://www.kenjacobsgallery.com">3D experiments</a> wouldn’t work as well on a small screen as at a cinema, though I did watch <em><a href="https://letterboxd.com/film/jonas-mekas-in-kodachrome-days/">Jonas Mekas in Kodachrome Days</a></em> recently on Criterion Channel.</p>
-
-<p>Streaming services aren’t the only resource to find a film. While not every city still has a <a href="https://letterboxd.com/film/jonas-mekas-in-kodachrome-days/">video rental store</a>, they are often a great resource for the movies that still aren’t available digitally. The few that are left are more like to carry harder to find titles than <a href="https://www.redbox.com">Redbox</a>, but overall physical media is also often cheaper to rent than a digital platform. (<a href="https://www.cinefilevideo.com">Cinefile Video</a> is the most well known in Los Angeles, and <a href="https://www.cinefilevideo.com">Vidiots</a> reopens this year, though I usually frequent <a href="http://vidtheque.com">Vidéothèque</a> in South Pasadena due to a well curated library and proximity.) Investing in a <a href="https://www.amazon.com/gp/product/B01M8HMK79/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&amp;psc=1">region-free Blu-ray player</a> also opens a world of possibilities for the titles available to see. Being able to order a Blu-Ray from a distributor in the UK or South Korea allows you to track down certain titles, though they’re often expensive. One of the best cheap resources for physical media is used media stores, such as <a href="https://www.amoeba.com">Amoeba Music</a> in LA or chains such as <a href="https://hpb.com/">Half Price Books</a> or <a href="https://www.theexchange.com">The Exchange</a>. While it’s more about patience to seek out these titles, scouring store shelves allowed me to see hard to find titles like <a href="https://letterboxd.com/film/daimajin/"><em>Daimajin</em></a> (1966) or <a href="https://letterboxd.com/film/the-beat-that-my-heart-skipped/"><em>The Beat That My Heart Skipped</em></a> (2005).</p>
-
-<p>There’s always a niche market for film fans, from Indies to International to Experimental and from Horror to Westerns to Fantasy. Once you know what you like, there’s an endless list of titles left to see.</p>
-
-<hr />
-
-<h3 id="links">Links</h3>
-
-<h4 id="films">Films</h4>
-
-<ul>
-  <li>
-    <p>Jonas Mekas in Kodachrome Days (2009) [<a href="https://www.imdb.com/title/tt3618140/reference">IMDb</a> // <a href="https://letterboxd.com/film/jonas-mekas-in-kodachrome-days/">Letterboxd</a>]</p>
-  </li>
-  <li>
-    <p>The Mother and the Whore (1973) [<a href="https://www.imdb.com/title/tt0070359/reference">IMDb</a> // <a href="https://letterboxd.com/film/the-mother-and-the-whore/">Letterboxd</a>]</p>
-  </li>
-  <li>
-    <p>Rendezvous in Paris (1995) [<a href="https://www.imdb.com/title/tt0114266/reference">IMDb</a> // <a href="https://letterboxd.com/film/rendezvous-in-paris-1995/">Letterboxd</a>]</p>
-  </li>
-</ul>
-
-<h4 id="people">People</h4>
-
-<ul>
-  <li>
-    <p>Ken Jacobs [<a href="https://www.imdb.com/name/nm0414499/">IMDb</a> // <a href="https://en.wikipedia.org/wiki/Ken_Jacobs">Wikipedia</a>]</p>
-  </li>
-  <li>
-    <p>Peter Kubelka [<a href="https://www.imdb.com/name/nm0473421/">IMDb</a> // <a href="https://en.wikipedia.org/wiki/Peter_Kubelka">Wikipedia</a>]</p>
-  </li>
-</ul>
-
-<h4 id="streaming-services">Streaming Services</h4>
-
-<ul>
-  <li>
-    <p><a href="https://www.criterionchannel.com">Criterion Channel</a> (paid)</p>
-  </li>
-  <li>
-    <p><a href="https://www.fandor.com">Fandor</a> (paid)</p>
-  </li>
-  <li>
-    <p><a href="https://www.hoopladigital.com/">Hoopla</a> (free with library card)</p>
-  </li>
-  <li>
-    <p><a href="https://kanopy.com">Kanopy</a> (free with library card)</p>
-  </li>
-  <li>
-    <p><a href="https://mubi.com">Mubi</a> (paid)</p>
-  </li>
-  <li>
-    <p><a href="https://www.shudder.com/">Shudder</a> (paid)</p>
-  </li>
-  <li>
-    <p><a href="http://www.ubu.com">UbuWeb</a> (free)</p>
-  </li>
-</ul>
-
-<h4 id="reference">Reference</h4>
-
-<ul>
-  <li>
-    <p><a href="https://en.wikipedia.org/wiki/Cinephilia">Cinephilia</a></p>
-  </li>
-  <li>
-    <p><a href="https://en.wikipedia.org/wiki/FilmStruck">FilmStruck</a></p>
-  </li>
-  <li>
-    <p><a href="https://en.wikipedia.org/wiki/New_Yorker_Films">New Yorker Films</a></p>
-  </li>
-  <li>
-    <p><a href="https://en.wikipedia.org/wiki/Telecine">Telecine</a></p>
-  </li>
-  <li>
-    <p><a href="https://en.wikipedia.org/wiki/Underground_film">Underground Film</a></p>
-  </li>
-</ul>
-
-<h4 id="other">Other</h4>
-
-<ul>
-  <li>
-    <p><a href="https://www.justwatch.com/">JustWatch</a></p>
-  </li>
-  <li>
-    <p><a href="https://www.kenjacobsgallery.com/">Ken Jacobs Gallery</a></p>
-  </li>
-</ul>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Cinephile]]></summary></entry><entry><title type="html">Theatre on Film</title><link href="http://localhost:4000/blog/2020/06/10/theatre-on-film.html" rel="alternate" type="text/html" title="Theatre on Film" /><published>2020-06-10T00:00:00-07:00</published><updated>2020-06-10T00:00:00-07:00</updated><id>http://localhost:4000/blog/2020/06/10/theatre-on-film</id><content type="html" xml:base="http://localhost:4000/blog/2020/06/10/theatre-on-film.html"><![CDATA[<h1 id="theatre-on-film">Theatre on Film</h1>
+</ul>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Smoke Gets in Your Eyes]]></summary></entry><entry><title type="html">Theatre on Film</title><link href="http://localhost:4000/blog/2020/06/10/theatre-on-film.html" rel="alternate" type="text/html" title="Theatre on Film" /><published>2020-06-10T00:00:00-07:00</published><updated>2020-06-10T00:00:00-07:00</updated><id>http://localhost:4000/blog/2020/06/10/theatre-on-film</id><content type="html" xml:base="http://localhost:4000/blog/2020/06/10/theatre-on-film.html"><![CDATA[<h1 id="theatre-on-film">Theatre on Film</h1>
 
 <p>Although <a href="https://en.wikipedia.org/wiki/Theatre">theatre</a> and <a href="https://en.wikipedia.org/wiki/Film">film</a> share many similarities, they’re distinct experiences. Theatre can be narrative-based or more experiential, such as <a href="https://en.wikipedia.org/wiki/Spectacle">spectacle</a> or <a href="https://en.wikipedia.org/wiki/Procession">pageantry</a>. Film can craft endless worlds with detailed sets or even venture into avant-garde territory.</p>
 
 <p>Prominent stage shows are often filmed for cinema, though the result can be less than cinematic if not carefully planned. <a href="https://en.wikipedia.org/wiki/Ingmar_Bergman">Ingmar Bergman</a>’s <em><a href="https://www.imdb.com/title/tt0072848/reference">The Magic Flute</a></em> (1975) is a landmark in filming an operatic performance in a way that feels alive on screen.</p>
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/2yS9-9ic9A4" title="Ingmar Bergman&#39;s The Magic Flute - new trailer | BFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/2yS9-9ic9A4" title="Ingmar Bergman's The Magic Flute - new trailer | BFI" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+  </iframe>
+</div>
 
 <p>One crucial difference between stage and screen is the <a href="https://en.wikipedia.org/wiki/Close-up">close-up</a>. Bergman’s film moves between behind-the-scenes shots and tight close-ups, immersing us in the theatrical setting while letting us see details that a live audience would miss.</p>
 
 <p>The audience’s presence is integral to theatre; in film, realism often dominates. Polish avant-garde master <a href="https://en.wikipedia.org/wiki/Tadeusz_Kantor">Tadeusz Kantor</a> presented <em><a href="https://www.imdb.com/title/tt0176266/">The Dead Class</a></em> (1977) as a performance recorded by <a href="https://en.wikipedia.org/wiki/Andrzej_Wajda">Andrzej Wajda</a>. Wajda’s camera captures the intimate atmosphere of Kantor’s memory-laden, nihilistic stage piece. Though not literally on a proscenium stage, it retains the feel of a live performance.</p>
 
-<iframe width="660" height="495" src="https://www.youtube.com/embed/aABFgNJOTZ4" title="Kantor La classe morta parte 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/aABFgNJOTZ4" title="Kantor La classe morta parte 1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+  </iframe>
+</div>
 
 <p>By contrast, <a href="https://en.wikipedia.org/wiki/Louis_Malle">Louis Malle</a>’s <em><a href="https://www.imdb.com/title/tt0111590/reference">Vanya on 42nd Street</a></em> (1994) strips away most theatrical elements. The adaptation, directed by Malle from <a href="https://en.wikipedia.org/wiki/Andre_Gregory">Andre Gregory</a>’s workshop, is set in a dilapidated theater with no audience and minimal props. The cast rehearses <a href="https://en.wikipedia.org/wiki/Anton_Chekhov">Chekhov</a>’s <em><a href="https://en.wikipedia.org/wiki/Uncle_Vanya">Uncle Vanya</a></em>, and we become the only audience. That layered approach underscores how a stage play’s essence can be preserved through close, thoughtful cinematography, even without typical sets or costumes.</p>
 
@@ -460,7 +389,10 @@
   <li><a href="https://en.wikipedia.org/wiki/Worldbuilding">Worldbuilding</a></li>
 </ul>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Theatre on Film]]></summary></entry><entry><title type="html">The Blacklist</title><link href="http://localhost:4000/blog/2020/05/16/the-blacklist.html" rel="alternate" type="text/html" title="The Blacklist" /><published>2020-05-16T00:00:00-07:00</published><updated>2020-05-16T00:00:00-07:00</updated><id>http://localhost:4000/blog/2020/05/16/the-blacklist</id><content type="html" xml:base="http://localhost:4000/blog/2020/05/16/the-blacklist.html"><![CDATA[<h1 id="the-blacklist">The Blacklist</h1>
 
-<iframe width="660" height="495" src="https://www.youtube.com/embed/NdLuNtbSAck" title="Hollywood Stars In Communist Activities (1947)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/NdLuNtbSAck" title="Hollywood Stars In Communist Activities (1947)" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+  </iframe>
+</div>
 
 <p>Cinema is a powerful medium for communicating ideas. It can normalize perspectives and shape society. Any attempt to suppress free expression—whether by law or intimidation—threatens the arts. As America’s political divide widens, some fear a renewed stifling of speech. This evokes the era when the House Committee on Un-American Activities (HUAC) targeted Hollywood, ultimately imprisoning ten men for refusing to cooperate in 1947.</p>
 
@@ -498,7 +430,10 @@
 
 <p>This campaign effectively destroyed careers and chilled creative expression. Chairman Thomas claimed to protect America from communist influence but instead demonstrated how fragile free speech can be when fear rules.</p>
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/mmeTKECkM2U" title="Victims of Hollywood&#39;s Blacklist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/mmeTKECkM2U" title="Victims of Hollywood's Blacklist" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+  </iframe>
+</div>
 
 <h3 id="links">Links</h3>
 
@@ -606,8 +541,6 @@
 <p>While there are still some uses for optical printers with <a href="https://en.wikipedia.org/wiki/Photochemistry">photochemical</a><a href="https://en.wikipedia.org/wiki/Film_preservation">film restorations</a>, the primary user base for the past few decades is comprised of <a href="https://en.wikipedia.org/wiki/Experimental_film">experimental filmmakers</a>.</p>
 
 <p>Experimental filmmakers often work alone and must be competent as cinematographer, film lab, and editor to use an optical printer. One of the most famous experimental filmmakers was <a href="https://en.wikipedia.org/wiki/Norman_McLaren">Norm McLaren</a>. He won an Oscar for his short <a href="https://letterboxd.com/film/neighbours/"><em>Neighbours</em></a> (1952), but his greatest work is arguably <a href="https://letterboxd.com/film/pas-de-deux/"><em>Pas de deux</em></a> (1968).</p>
-
-<p>&lt;br/&gt;</p>
 
 <p>The effects in <em>Pas de Deux</em> can easily be recreated in almost any <a href="https://en.wikipedia.org/wiki/Non-linear_editing_system">Non-Linear Editor</a> now. Digital effects allow for a quicker creation, but it doesn’t account for creative output. Working in a dark room with an optical printer, McLaren worked frame by frame, having to wait until the footage was processed at a <a href="https://en.wikipedia.org/wiki/Film_laboratory">lab</a> to confirm that it turned out as he expected.</p>
 
@@ -756,17 +689,26 @@
 
 <p>One classic example is <em><a href="https://letterboxd.com/film/panic/">Panique</a></em> (1947) by <a href="https://www.imdb.com/name/nm0245213/">Julien Duvivier</a> [corrected from “Claude Duvivier”]. An allegory for how the French could have supported Nazi occupiers, <em>Panique</em> realistically examines how people make decisions in a crowd that they would never make alone. When a man is accused of murder simply for being different, a small group’s vocal outrage eventually turns the entire town against him.</p>
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/nXpddF9qBFA" title="PANIQUE - Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/nXpddF9qBFA" title="PANIQUE - Trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+  </iframe>
+</div>
 
 <p>While the remake, <em><a href="https://letterboxd.com/film/monsieur-hire/">Monsieur Hire</a></em> (1989), is arguably more polished, <em>Panique</em> more directly addresses the danger of herd mentality in a contemporary post-WWII setting.</p>
 
 <p>In Los Angeles, during the coronavirus outbreak, people scrambled for sanitary products and other items. LA is often stereotyped as morally or socially extreme; John Schlesinger’s <em><a href="https://letterboxd.com/film/the-day-of-the-locust/">The Day of the Locust</a></em> (1975) took that idea to extremes, culminating in another frightening example of collective hysteria. During a movie premiere, tensions flare and a chaotic riot erupts when violence breaks out—yet radio commentators mistake the riot for excited moviegoers.</p>
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/BQO5Xy2ebhs" title="The Burning of Los Angeles - The Day of the Locust (9/9) Movie CLIP (1975) HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/BQO5Xy2ebhs" title="The Burning of Los Angeles - The Day of the Locust (9/9) Movie CLIP (1975) HD" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+  </iframe>
+</div>
 
 <p><em>The Day of the Locust</em> uses that riot to summarize its built-up anxieties. People easily succumb to fear, preparing for the worst once they sense any threat. Horror films often reveal the worst sides of humanity under pressure. In <em><a href="https://letterboxd.com/film/ringu-0/">Ringu 0</a></em> (2000), the third in <a href="https://en.wikipedia.org/wiki/The_Ring_(franchise)">the Japanese “Ring” series</a>, Sadako’s curse stems from the fear she engenders in her theater troupe. As she’s blamed for strange occurrences, fear escalates to anger.</p>
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/khuxV85_7NI" title="Ring 0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/khuxV85_7NI" title="Ring 0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+  </iframe>
+</div>
 
 <p>Fiction can be more “truthful” than reality in that it distills and focuses our anxieties. Hopefully, the real-world response to crises won’t match these movie scenarios—but these films remind us that panic can be as dangerous as any outbreak.</p>
 
@@ -903,4 +845,104 @@
 
 <ul>
   <li><a href="http://extension765.com/soderblogh/18-raiders">Extension 765: <em>Raiders</em></a></li>
-</ul>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Year of the Parasite]]></summary></entry></feed>
+</ul>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Year of the Parasite]]></summary></entry><entry><title type="html">Cinephile</title><link href="http://localhost:4000/blog/2020/01/12/cinephile.html" rel="alternate" type="text/html" title="Cinephile" /><published>2020-01-12T00:00:00-08:00</published><updated>2020-01-12T00:00:00-08:00</updated><id>http://localhost:4000/blog/2020/01/12/cinephile</id><content type="html" xml:base="http://localhost:4000/blog/2020/01/12/cinephile.html"><![CDATA[<h1 id="cinephile">Cinephile</h1>
+
+<p><img src="https://images.squarespace-cdn.com/content/v1/5e13b779a521ce05b02b31c9/1580166301987-47R53OH9ABUX8QZS9Q4J/LaMamanEtLaPutain1973.jpeg" alt="LaMamanEtLaPutain1973.jpeg" /></p>
+
+<p>Last night, I watched <a href="https://letterboxd.com/film/the-mother-and-the-whore/"><em>The Mother and the Whore</em></a> (1973) for the first time. It’s a film made by a <a href="https://en.wikipedia.org/wiki/Cinephilia">cineaste</a> about a <a href="https://en.wikipedia.org/wiki/Cinephilia">cinephile</a>, and since it’s been difficult to find in the US, it’s mainly cinephiles that seek it out. Certain movies are difficult to find for one reason or another and there isn’t too much information on how to easily track them down.</p>
+
+<p>When <a href="https://en.wikipedia.org/wiki/FilmStruck">FilmStruck</a> shut down, it showed that the availability of titles could easily narrow instead of expand. There hadn’t been such disappointing news for the cinephile community since <a href="https://en.wikipedia.org/wiki/New_Yorker_Films">New Yorker Films</a> shuttered in 2009. (<em>The Mother and the Whore</em> is one of those films that became harder to find after New Yorker Films shut down, though it’s currently available on <a href="https://youtu.be/gFHn4xPeW14">YouTube</a> to stream for free.) Thankfully there are many wonderful services –such as <a href="https://www.criterionchannel.com">Criterion Channel</a> and <a href="https://mubi.com">Mubi</a>– that have replaced FilmStruck in the past year. The problem with having so many streaming services available is picking which ones have the right movies for you and easily searching within them.</p>
+
+<p>The first place I check when I want to watch something is <a href="https://letterboxd.com">Letterboxd</a>. While I initially used it as a film diary, it has become even more useful since they integrated <a href="https://www.justwatch.com">JustWatch</a> into their platform. (If you don’t want to upgrade your Letterboxd account to Pro, JustWatch itself is a great resource to find which services have a specific movie to stream.) Whether or not the title is available, of course, depends on the services listed on JustWatch. There are some mistakes on the availability of certain titles (ex. Rohmer’s <em><a href="https://letterboxd.com/film/rendezvous-in-paris-1995/">Rendezvous in Paris</a></em> (1995) is on Amazon Prime, but oddly missing from a search on JustWatch), though overall it is a great place to start.</p>
+
+<p>The rarer the film, the more research it will take to find a watchable version. If you’re looking for something that was only screened in a gallery setting, you often have to find go to that specific gallery to see it. While you can often find hard to find works on YouTube or <a href="http://www.ubu.com">UbuWeb</a>, many are still unavailable digitally. <a href="https://en.wikipedia.org/wiki/Peter_Kubelka">Peter Kubelka</a> hasn’t allowed his work to be <a href="https://en.wikipedia.org/wiki/Telecine">telecined</a>, insisting it be projected as he originally intended. This is the same with many other <a href="https://en.wikipedia.org/wiki/Underground_film">underground filmmakers</a>. <a href="https://en.wikipedia.org/wiki/Ken_Jacobs">Ken Jacobs</a>’ <a href="https://www.kenjacobsgallery.com">3D experiments</a> wouldn’t work as well on a small screen as at a cinema, though I did watch <em><a href="https://letterboxd.com/film/jonas-mekas-in-kodachrome-days/">Jonas Mekas in Kodachrome Days</a></em> recently on Criterion Channel.</p>
+
+<p>Streaming services aren’t the only resource to find a film. While not every city still has a <a href="https://letterboxd.com/film/jonas-mekas-in-kodachrome-days/">video rental store</a>, they are often a great resource for the movies that still aren’t available digitally. The few that are left are more like to carry harder to find titles than <a href="https://www.redbox.com">Redbox</a>, but overall physical media is also often cheaper to rent than a digital platform. (<a href="https://www.cinefilevideo.com">Cinefile Video</a> is the most well known in Los Angeles, and <a href="https://www.cinefilevideo.com">Vidiots</a> reopens this year, though I usually frequent <a href="http://vidtheque.com">Vidéothèque</a> in South Pasadena due to a well curated library and proximity.) Investing in a <a href="https://www.amazon.com/gp/product/B01M8HMK79/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&amp;psc=1">region-free Blu-ray player</a> also opens a world of possibilities for the titles available to see. Being able to order a Blu-Ray from a distributor in the UK or South Korea allows you to track down certain titles, though they’re often expensive. One of the best cheap resources for physical media is used media stores, such as <a href="https://www.amoeba.com">Amoeba Music</a> in LA or chains such as <a href="https://hpb.com/">Half Price Books</a> or <a href="https://www.theexchange.com">The Exchange</a>. While it’s more about patience to seek out these titles, scouring store shelves allowed me to see hard to find titles like <a href="https://letterboxd.com/film/daimajin/"><em>Daimajin</em></a> (1966) or <a href="https://letterboxd.com/film/the-beat-that-my-heart-skipped/"><em>The Beat That My Heart Skipped</em></a> (2005).</p>
+
+<p>There’s always a niche market for film fans, from Indies to International to Experimental and from Horror to Westerns to Fantasy. Once you know what you like, there’s an endless list of titles left to see.</p>
+
+<hr />
+
+<h3 id="links">Links</h3>
+
+<h4 id="films">Films</h4>
+
+<ul>
+  <li>
+    <p>Jonas Mekas in Kodachrome Days (2009) [<a href="https://www.imdb.com/title/tt3618140/reference">IMDb</a> // <a href="https://letterboxd.com/film/jonas-mekas-in-kodachrome-days/">Letterboxd</a>]</p>
+  </li>
+  <li>
+    <p>The Mother and the Whore (1973) [<a href="https://www.imdb.com/title/tt0070359/reference">IMDb</a> // <a href="https://letterboxd.com/film/the-mother-and-the-whore/">Letterboxd</a>]</p>
+  </li>
+  <li>
+    <p>Rendezvous in Paris (1995) [<a href="https://www.imdb.com/title/tt0114266/reference">IMDb</a> // <a href="https://letterboxd.com/film/rendezvous-in-paris-1995/">Letterboxd</a>]</p>
+  </li>
+</ul>
+
+<h4 id="people">People</h4>
+
+<ul>
+  <li>
+    <p>Ken Jacobs [<a href="https://www.imdb.com/name/nm0414499/">IMDb</a> // <a href="https://en.wikipedia.org/wiki/Ken_Jacobs">Wikipedia</a>]</p>
+  </li>
+  <li>
+    <p>Peter Kubelka [<a href="https://www.imdb.com/name/nm0473421/">IMDb</a> // <a href="https://en.wikipedia.org/wiki/Peter_Kubelka">Wikipedia</a>]</p>
+  </li>
+</ul>
+
+<h4 id="streaming-services">Streaming Services</h4>
+
+<ul>
+  <li>
+    <p><a href="https://www.criterionchannel.com">Criterion Channel</a> (paid)</p>
+  </li>
+  <li>
+    <p><a href="https://www.fandor.com">Fandor</a> (paid)</p>
+  </li>
+  <li>
+    <p><a href="https://www.hoopladigital.com/">Hoopla</a> (free with library card)</p>
+  </li>
+  <li>
+    <p><a href="https://kanopy.com">Kanopy</a> (free with library card)</p>
+  </li>
+  <li>
+    <p><a href="https://mubi.com">Mubi</a> (paid)</p>
+  </li>
+  <li>
+    <p><a href="https://www.shudder.com/">Shudder</a> (paid)</p>
+  </li>
+  <li>
+    <p><a href="http://www.ubu.com">UbuWeb</a> (free)</p>
+  </li>
+</ul>
+
+<h4 id="reference">Reference</h4>
+
+<ul>
+  <li>
+    <p><a href="https://en.wikipedia.org/wiki/Cinephilia">Cinephilia</a></p>
+  </li>
+  <li>
+    <p><a href="https://en.wikipedia.org/wiki/FilmStruck">FilmStruck</a></p>
+  </li>
+  <li>
+    <p><a href="https://en.wikipedia.org/wiki/New_Yorker_Films">New Yorker Films</a></p>
+  </li>
+  <li>
+    <p><a href="https://en.wikipedia.org/wiki/Telecine">Telecine</a></p>
+  </li>
+  <li>
+    <p><a href="https://en.wikipedia.org/wiki/Underground_film">Underground Film</a></p>
+  </li>
+</ul>
+
+<h4 id="other">Other</h4>
+
+<ul>
+  <li>
+    <p><a href="https://www.justwatch.com/">JustWatch</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.kenjacobsgallery.com/">Ken Jacobs Gallery</a></p>
+  </li>
+</ul>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Cinephile]]></summary></entry></feed>

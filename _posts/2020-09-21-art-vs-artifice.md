@@ -1,14 +1,21 @@
 ---
 layout: post
-title:  "Symbiopsychotaxiplasm and the Artifice of Filmmaking"
+title:  "Art vs. Artifice"
 date:   2020-09-21
 categories: blog
 ---
-# Symbiopsychotaxiplasm and the Filmmaking Process
+# Art vs. Artifice
 
 <div class="video-container">
-<iframe width="750" height="422" src="https://www.youtube-nocookie.com/embed/yn4rJLzv4Jk?si=fIyZWPGFdTIsbXFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe 
+    src="https://www.youtube-nocookie.com/embed/yn4rJLzv4Jk?si=fIyZWPGFdTIsbXFI" 
+    title="Symbiopsychotaxiplasm: Take One - Clip"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
 </div>
+
 In the Spring of 1968, [William Greaves](https://www.imdb.com/name/nm0337348) set out to make a film about filmmaking. He called it “a fragment of the Godhead which is made up of other Godhead fragments.” This movie became *[Symbiopsychotaxiplasm: Take One](https://www.imdb.com/title/tt0296881)* (1968).
 
 Symbiopsychotaxiplasm is a deconstruction of the filmic form. The basic elements of the cinema are based around the non-existence of apparent camera and sound equipment. Based on the Hollywood-Mosfilm model by which most films are created, filmmaking techniques are supposed to be invisible.
