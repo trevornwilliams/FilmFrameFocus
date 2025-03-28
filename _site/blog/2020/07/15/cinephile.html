@@ -1,35 +1,82 @@
-<!-- _layouts/default.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Cinephile</title>
-  <meta name="description" content="An exploration of cinema from a personal perspective">
+  <meta name="description" content="Diary of a film worker">
+  
+  <!-- EB Garamond from Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/assets/main.css">
-  <link rel="alternate" type="application/atom+xml" title="FilmFrameFocus" href="/feed.xml">
+  
+  <!-- Main CSS -->
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <!-- p5.js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.10.0/p5.min.js"></script>
+  
+  <!-- Remix Icons for social icons in footer -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" />
 </head>
-
-
 <body>
-  <header class="site-header">
-    <div class="wrapper">
-      <nav class="site-nav">
-        <a class="page-link" href="/about/">About</a>
-        <a class="page-link" href="/">Blog</a>
-        <a class="page-link" href="https://letterboxd.com/trevornwilliams/">Film Diary</a>
-        <a class="page-link" href="/resources/">Resources</a>
+  <!-- p5.js Sketch Container (background) -->
+  <div id="sketch-container"></div>
+
+  <!-- Header with Logo and Navigation -->
+  <header id="header">
+    <div class="header-container">
+      <div class="logo">
+        <a href="/">
+          <img src="/assets/images/Logo.png" alt="FilmFrameFocus Logo">
+        </a>
+      </div>
+      <nav class="nav-menu">
+        <ul>
+          <li><a href="/about/">About</a></li>
+          <li><a href="https://letterboxd.com/trevornwilliams/" target="_blank" rel="noopener">Film Diary</a></li>
+          <li><a href="/resources/">Resources</a></li>
+        </ul>
       </nav>
     </div>
   </header>
 
-  <main class="wrapper">
-    <article class="post">
-  <div class="wrapper">
-    <h1 class="post-title">Cinephile</h1>
-    <h1 id="cinephile">Cinephile</h1>
+  <!-- Main Content Area -->
+  <main>
+    <div class="container">
+      <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cinephile</title>
+  <meta name="description" content="Diary of a film worker">
+  <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body>
+  <!-- Header with Logo and Navigation -->
+  <header id="header">
+    <div class="header-container">
+      <div class="logo">
+        <a href="/">
+          <img src="/assets/images/Logo.png" alt="FilmFrameFocus Logo">
+        </a>
+      </div>
+      <nav class="nav-menu">
+        <ul>
+          <li><a href="/about/">About</a></li>
+          <li><a href="https://letterboxd.com/YOUR_LETTERBOXD_USERNAME" target="_blank" rel="noopener">Film Diary</a></li>
+          <li><a href="/resources/">Resources</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  
+  <!-- Main Content Area -->
+  <main>
+    <div class="container">
+
+      <article class="post">
+        <h1 class="post-title">Cinephile</h1>
+        <h1 id="cinephile">Cinephile</h1>
 
 <p><img src="https://images.squarespace-cdn.com/content/v1/5e13b779a521ce05b02b31c9/1580166301987-47R53OH9ABUX8QZS9Q4J/LaMamanEtLaPutain1973.jpeg" alt="LaMamanEtLaPutain1973.jpeg" /></p>
 
@@ -131,32 +178,41 @@
   </li>
 </ul>
 
-  </div>
-</article>
-
+      </article>    </div>
   </main>
 
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/"></data>
-    <div class="wrapper">
-    <h2 class="footer-heading">FilmFrameFocus</h2>
-    <div class="footer-col-wrapper">
-    <div class="footer-col footer-col-1">
-    <ul class="contact-list">
-    <li class="p-name">FilmFrameFocus</li>
-    <li><a class="u-email" href="mailto:trevor@filmframefocus.com">trevor@filmframefocus.com</a></li>
-    </ul>
-    </div>
-    <div class="footer-col footer-col-2">
-    <ul class="social-media-list">
-    <li><a href="https://github.com/trevornwilliams"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">trevornwilliams</span></a></li>
-    </ul>
-    </div>
-    <div class="footer-col footer-col-3">
-    <p>An exploration of cinema from a personal perspective</p>
-    </div>
-    </div>
-    </div>
+    <!-- Footer with Social Icons -->
+    <footer id="footer">
+      <div class="footer-content">
+        <a href="mailto:trevor@filmframefocus.com" aria-label="Email"><i class="ri-mail-line"></i></a>
+        <a href="https://www.linkedin.com/in/" aria-label="LinkedIn"><i class="ri-linkedin-box-fill"></i></a>
+        <a href="https://github.com/trevornwilliams" aria-label="GitHub"><i class="ri-github-fill"></i></a>
+      </div>
     </footer>
+</body>
+</html>
+    </div>
+  </main>
+
+  <!-- About Modal Overlay -->
+  <div id="about-overlay" class="hidden">
+    <div id="about-box">
+      <button id="close-about" aria-label="Close About">&times;</button>
+      
+    </div>
+  </div>
+
+  <!-- Footer with Social Icons -->
+  <footer id="footer">
+    <div class="footer-content">
+      <a href="mailto:trevor@filmframefocus.com" aria-label="Email"><i class="ri-mail-line"></i></a>
+      <a href="https://www.linkedin.com/in/" aria-label="LinkedIn"><i class="ri-linkedin-box-fill"></i></a>
+      <a href="https://github.com/trevornwilliams" aria-label="GitHub"><i class="ri-github-fill"></i></a>
+    </div>
+  </footer>
+
+  <!-- JavaScript: Main interactions and p5.js sketch -->
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/sketch.js"></script>
 </body>
 </html>

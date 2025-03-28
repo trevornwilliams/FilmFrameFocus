@@ -1,146 +1,156 @@
-<!-- _layouts/default.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>FilmFrameFocus</title>
-  <meta name="description" content="An exploration of cinema from a personal perspective">
+  <meta name="description" content="Diary of a film worker">
+  
+  <!-- EB Garamond from Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/assets/main.css">
-  <link rel="alternate" type="application/atom+xml" title="FilmFrameFocus" href="/feed.xml">
+  
+  <!-- Main CSS -->
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <!-- p5.js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.10.0/p5.min.js"></script>
+  
+  <!-- Remix Icons for social icons in footer -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" />
 </head>
-
-
 <body>
-  <header class="site-header">
-    <div class="wrapper">
-      <nav class="site-nav">
-        <a class="page-link" href="/about/">About</a>
-        <a class="page-link" href="/">Blog</a>
-        <a class="page-link" href="https://letterboxd.com/trevornwilliams/">Film Diary</a>
-        <a class="page-link" href="/resources/">Resources</a>
+  <!-- p5.js Sketch Container (background) -->
+  <div id="sketch-container"></div>
+
+  <!-- Header with Logo and Navigation -->
+  <header id="header">
+    <div class="header-container">
+      <div class="logo">
+        <a href="/">
+          <img src="/assets/images/Logo.png" alt="FilmFrameFocus Logo">
+        </a>
+      </div>
+      <nav class="nav-menu">
+        <ul>
+          <li><a href="/about/">About</a></li>
+          <li><a href="https://letterboxd.com/trevornwilliams/" target="_blank" rel="noopener">Film Diary</a></li>
+          <li><a href="/resources/">Resources</a></li>
+        </ul>
       </nav>
     </div>
   </header>
 
-  <main class="wrapper">
-    <main class="page-content" aria-label="Content">
-  <div class="wrapper">
-    <div class="home">
-      <h2 class="post-list-heading">Posts</h2>
-      <ul class="post-list">
-        
-          <li>
-            <h3>
-              <a class="post-link" href="/blog/2020/09/21/symbiopsychotaxiplasm-and-the-artifice-of-filmmaking.html">
-                Symbiopsychotaxiplasm and the Artifice of Filmmaking
-              </a>
-            </h3>
-          </li>
-        
-          <li>
-            <h3>
-              <a class="post-link" href="/blog/2020/08/25/cinemas-puppets.html">
-                Cinema’s Puppets
-              </a>
-            </h3>
-          </li>
-        
-          <li>
-            <h3>
-              <a class="post-link" href="/blog/2020/07/15/smoke-gets-in-your-eyes.html">
-                Smoke Gets in Your Eyes
-              </a>
-            </h3>
-          </li>
-        
-          <li>
-            <h3>
-              <a class="post-link" href="/blog/2020/07/15/cinephile.html">
-                Cinephile
-              </a>
-            </h3>
-          </li>
-        
-          <li>
-            <h3>
-              <a class="post-link" href="/blog/2020/06/10/theatre-on-film.html">
-                Theatre on Film
-              </a>
-            </h3>
-          </li>
-        
-          <li>
-            <h3>
-              <a class="post-link" href="/blog/2020/05/16/the-blacklist.html">
-                The Blacklist
-              </a>
-            </h3>
-          </li>
-        
-          <li>
-            <h3>
-              <a class="post-link" href="/blog/2020/04/28/optical-printing.html">
-                Optical Printing
-              </a>
-            </h3>
-          </li>
-        
-          <li>
-            <h3>
-              <a class="post-link" href="/blog/2020/03/23/dont-panic.html">
-                Don&#39;t Panic
-              </a>
-            </h3>
-          </li>
-        
-          <li>
-            <h3>
-              <a class="post-link" href="/blog/2020/03/04/in-with-the-old.html">
-                In with the Old
-              </a>
-            </h3>
-          </li>
-        
-          <li>
-            <h3>
-              <a class="post-link" href="/blog/2020/02/03/year-of-the-parasite.html">
-                Year of the Parasite
-              </a>
-            </h3>
-          </li>
-        
-      </ul>
-      <p class="rss-subscribe">subscribe <a href="">via RSS</a></p>
+  <!-- Main Content Area -->
+  <main>
+    <div class="container">
+      <div class="home">
+  <h2 class="post-list-heading">Posts</h2>
+  <ul class="post-list">
+    
+      <li>
+        <h3>
+          <a class="post-link" href="/blog/2020/09/21/symbiopsychotaxiplasm-and-the-artifice-of-filmmaking.html">
+            Symbiopsychotaxiplasm and the Artifice of Filmmaking
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a class="post-link" href="/blog/2020/08/25/cinemas-puppets.html">
+            Cinema’s Puppets
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a class="post-link" href="/blog/2020/07/15/smoke-gets-in-your-eyes.html">
+            Smoke Gets in Your Eyes
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a class="post-link" href="/blog/2020/07/15/cinephile.html">
+            Cinephile
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a class="post-link" href="/blog/2020/06/10/theatre-on-film.html">
+            Theatre on Film
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a class="post-link" href="/blog/2020/05/16/the-blacklist.html">
+            The Blacklist
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a class="post-link" href="/blog/2020/04/28/optical-printing.html">
+            Optical Printing
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a class="post-link" href="/blog/2020/03/23/dont-panic.html">
+            Don&#39;t Panic
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a class="post-link" href="/blog/2020/03/04/in-with-the-old.html">
+            In with the Old
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a class="post-link" href="/blog/2020/02/03/year-of-the-parasite.html">
+            Year of the Parasite
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+  <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
+</div>
     </div>
-  </div>
-</main>
-
   </main>
 
-  <footer class="site-footer h-card">
-    <data class="u-url" href="/"></data>
-    <div class="wrapper">
-    <h2 class="footer-heading">FilmFrameFocus</h2>
-    <div class="footer-col-wrapper">
-    <div class="footer-col footer-col-1">
-    <ul class="contact-list">
-    <li class="p-name">FilmFrameFocus</li>
-    <li><a class="u-email" href="mailto:trevor@filmframefocus.com">trevor@filmframefocus.com</a></li>
-    </ul>
+  <!-- About Modal Overlay -->
+  <div id="about-overlay" class="hidden">
+    <div id="about-box">
+      <button id="close-about" aria-label="Close About">&times;</button>
+      
     </div>
-    <div class="footer-col footer-col-2">
-    <ul class="social-media-list">
-    <li><a href="https://github.com/trevornwilliams"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">trevornwilliams</span></a></li>
-    </ul>
+  </div>
+
+  <!-- Footer with Social Icons -->
+  <footer id="footer">
+    <div class="footer-content">
+      <a href="mailto:trevor@filmframefocus.com" aria-label="Email"><i class="ri-mail-line"></i></a>
+      <a href="https://www.linkedin.com/in/" aria-label="LinkedIn"><i class="ri-linkedin-box-fill"></i></a>
+      <a href="https://github.com/trevornwilliams" aria-label="GitHub"><i class="ri-github-fill"></i></a>
     </div>
-    <div class="footer-col footer-col-3">
-    <p>An exploration of cinema from a personal perspective</p>
-    </div>
-    </div>
-    </div>
-    </footer>
+  </footer>
+
+  <!-- JavaScript: Main interactions and p5.js sketch -->
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/sketch.js"></script>
 </body>
 </html>

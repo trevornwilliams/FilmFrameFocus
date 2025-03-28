@@ -1,55 +1,70 @@
-<!-- _layouts/default.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title | default: site.title }}</title>
   <meta name="description" content="{{ site.description }}">
+  
+  <!-- EB Garamond from Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
+  
+  <!-- Main CSS -->
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <!-- p5.js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.10.0/p5.min.js"></script>
+  
+  <!-- Remix Icons for social icons in footer -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" />
 </head>
-
-
 <body>
-  <header class="site-header">
-    <div class="wrapper">
-      <nav class="site-nav">
-        <a class="page-link" href="{{ '/about/' | relative_url }}">About</a>
-        <a class="page-link" href="{{ '/' | relative_url }}">Blog</a>
-        <a class="page-link" href="https://letterboxd.com/trevornwilliams/">Film Diary</a>
-        <a class="page-link" href="{{ '/resources/' | relative_url }}">Resources</a>
+  <!-- p5.js Sketch Container (background) -->
+  <div id="sketch-container"></div>
+
+  <!-- Header with Logo and Navigation -->
+  <header id="header">
+    <div class="header-container">
+      <div class="logo">
+        <a href="{{ '/' | relative_url }}">
+          <img src="{{ '/assets/images/Logo.png' | relative_url }}" alt="{{ site.title }} Logo">
+        </a>
+      </div>
+      <nav class="nav-menu">
+        <ul>
+          <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+          <li><a href="https://letterboxd.com/trevornwilliams/" target="_blank" rel="noopener">Film Diary</a></li>
+          <li><a href="{{ '/resources/' | relative_url }}">Resources</a></li>
+        </ul>
       </nav>
     </div>
   </header>
 
-  <main class="wrapper">
-    {{ content }}
+  <!-- Main Content Area -->
+  <main>
+    <div class="container">
+      {{ content }}
+    </div>
   </main>
 
-  <footer class="site-footer h-card">
-    <data class="u-url" href="{{ '/' | relative_url }}"></data>
-    <div class="wrapper">
-    <h2 class="footer-heading">{{ site.title }}</h2>
-    <div class="footer-col-wrapper">
-    <div class="footer-col footer-col-1">
-    <ul class="contact-list">
-    <li class="p-name">{{ site.title }}</li>
-    <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-    </ul>
+  <!-- About Modal Overlay -->
+  <div id="about-overlay" class="hidden">
+    <div id="about-box">
+      <button id="close-about" aria-label="Close About">&times;</button>
+      {{ site.about_content }}
     </div>
-    <div class="footer-col footer-col-2">
-    <ul class="social-media-list">
-    <li><a href="https://github.com/{{ site.github_username }}"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">{{ site.github_username }}</span></a></li>
-    </ul>
+  </div>
+
+  <!-- Footer with Social Icons -->
+  <footer id="footer">
+    <div class="footer-content">
+      <a href="mailto:{{ site.email }}" aria-label="Email"><i class="ri-mail-line"></i></a>
+      <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" aria-label="LinkedIn"><i class="ri-linkedin-box-fill"></i></a>
+      <a href="https://github.com/{{ site.github_username }}" aria-label="GitHub"><i class="ri-github-fill"></i></a>
     </div>
-    <div class="footer-col footer-col-3">
-    <p>{{ site.description }}</p>
-    </div>
-    </div>
-    </div>
-    </footer>
+  </footer>
+
+  <!-- JavaScript: Main interactions and p5.js sketch -->
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/sketch.js' | relative_url }}"></script>
 </body>
 </html>

@@ -1,71 +1,175 @@
-body {
-  font-family: 'EB Garamond', serif;
-  font-size: 18px;
-  line-height: 1.75;
-  color: #222;
-  background-color: #ffffff;
+/* main.css */
+
+/* Reset and Base Styles */
+*, *::before, *::after {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
 
-.wrapper {
-  max-width: 800px;
+body {
+  font-family: 'EB Garamond', serif;
+  line-height: 1.6;
+  color: #24292e;
+  background-color: #fff;
+  font-size: 16px;
+}
+
+/* Container for Main Content */
+.container {
+  width: 100%;
+  padding: 0 16px;
   margin: 0 auto;
-  padding: 0 1.25rem;
 }
 
-h1, h2, h3, h4 {
-  font-weight: 600;
-  color: #111;
-  line-height: 1.3;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
+@media (min-width: 768px) {
+  .container {
+    width: 75%;
+  }
 }
 
-.post-title {
-  font-size: 2.2rem;
+/* Header Styles */
+#header {
+  /* If you want a white header, replace transparent with #fff */
+  background-color: transparent;
+  border-bottom: none;
+  padding: 16px 0;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* Adjust max-width as needed to match your other site */
+  max-width: 50%;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+/* Smaller logo */
+.logo img {
+  max-height: 32px; /* Reduced from 50px */
+}
+
+/* Navigation Menu */
+.nav-menu ul {
+  display: flex;
+  list-style: none;
+  gap: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-menu a {
+  color: #24292e;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.nav-menu a:hover {
+  color: #0366d6;
+}
+
+/* Main Content Area */
+.site-main {
+  flex: 1;
+  padding: 24px 0;
+}
+
+/* Post Layout Styles */
+.post {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 32px;
+}
+
+.post-featured {
+  flex-shrink: 0;
+  width: 40%;
+  position: relative;
+}
+
+.post-featured::before {
+  content: "";
+  display: block;
+  padding-top: 75%; /* 4:3 aspect ratio (3/4 = 75%) */
+}
+
+.post-featured img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.post-content {
+  flex-grow: 1;
+}
+
+/* Footer Styles */
+#footer {
+  background-color: #fff; /* White footer */
+  border-top: none;       /* Remove top border for a cleaner look */
+  padding: 20px 0;
+  margin-top: auto;
   text-align: center;
-  margin: 2rem 0;
-  font-style: italic;
+}
+
+#footer .footer-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .header-container {
+    flex-direction: column;
+    text-align: center;
+    gap: 16px;
+  }
+
+  .nav-menu ul {
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .post {
+    flex-direction: column;
+  }
+
+  #footer .footer-content {
+    flex-direction: column;
+    gap: 16px;
+  }
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 16px;
+  font-weight: 600;
 }
 
 a {
-  color: #3366cc;
+  color: #000000;
   text-decoration: none;
+  transition: color 0.2s ease;
 }
 
 a:hover {
   text-decoration: underline;
 }
 
-.site-header {
-  background: #fff;
-  border-bottom: 1px solid #eaeaea;
-  padding: 1rem 0;
-  text-align: center;
+/* Content Styling */
+.content p {
+  margin-bottom: 16px;
 }
 
-.site-nav {
-  margin: 0;
-}
-
-.page-link {
-  margin: 0 1rem;
-  font-size: 1.1rem;
-}
-
-.site-footer {
-  text-align: center;
-  padding: 2rem 0;
-  border-top: 1px solid #eaeaea;
-  font-size: 0.9rem;
-  color: #555;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 2rem auto;
-  border-radius: 4px;
+.content ul,
+.content ol {
+  margin-bottom: 16px;
+  padding-left: 32px;
 }
