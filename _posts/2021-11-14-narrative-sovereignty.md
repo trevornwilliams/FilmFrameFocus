@@ -5,7 +5,7 @@ date:   2021-11-14
 categories: blog
 ---
 
-# Beyond the Gaze: African Cinema and the Struggle for Narrative Sovereignty
+# Narrative Sovereignty
 
 While most of the world was still fighting the pandemic, Africa had a much-overlooked plague of locusts descending on it. This reflects a major problem with the rest of the world, as we often ignore the African continent as a whole while it's still often portrayed as unruly and dangerous in media. African cinema in particular doesn't get much attention due to the lack of distribution in our Euro-centric focus on international cinema.
 
