@@ -49,3 +49,5 @@ permalink: /resources/
 
 *   [Every Frame a Painting](https://everyframeapainting.tumblr.com/)
 *   [Kogonada](http://kogonada.com/)
+
+---
