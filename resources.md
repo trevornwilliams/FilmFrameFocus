@@ -5,7 +5,6 @@ permalink: /resources/
 
 ![Resources](/assets/images/Button_Resources.png)
 
-Here are some tools, texts, and websites that have helped shape my thinking about film, criticism, and technique.
 
 ### Film Credits
 
