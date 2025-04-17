@@ -15,7 +15,7 @@ In the late colonial period, Jean Rouch, as a French outsider, captured African 
 
 <div class="video-container">
   <iframe
-    src="https://www.youtube.com/embed/N5XeL7rJf-U"
+    src="https://www.youtube.com/embed/t9gYnHenApU?si=I0Nei_xBMOVJvRpG" 
     title="Mandabi - Trailer"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
@@ -29,7 +29,7 @@ In response to this imbalance, *Mandabi* (1968) by [Ousmane Sembène](https://en
 
 <div class="video-container">
   <iframe
-    src="https://www.youtube.com/embed/YxLJ3P6lLDo"
+    src="https://www.youtube.com/embed/xaWmfqrQjU4?si=eyLus6SMz4nwgWwa"
     title="Touki Bouki - Trailer"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
@@ -45,7 +45,7 @@ Uganda’s [Nabwana I.G.G.](https://en.wikipedia.org/wiki/Who_Killed_Captain_Ale
 
 <div class="video-container">
   <iframe
-    src="https://www.youtube.com/embed/MKPtU2fVFcE"
+    src="https://www.youtube.com/embed/BymeLkZ7GqM?si=ri9IeiLrRyPtc_3b"
     title="Who Killed Captain Alex? (Official Trailer)"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
@@ -64,30 +64,30 @@ Africa is not a genre.
 #### Films
 
 - *Cairo Station* (1958)  
-  [[IMDb](https://www.imdb.com/title/tt0051542) // [Letterboxd](https://letterboxd.com/film/cairo-station/)]
+  [[IMDb](https://www.imdb.com/title/tt0051390) // [Letterboxd](https://letterboxd.com/film/cairo-station/)]
 - *Mandabi* (1968)  
-  [[IMDb](https://www.imdb.com/title/tt0063328) // [Letterboxd](https://letterboxd.com/film/mandabi/)]
+  [[IMDb](https://www.imdb.com/title/tt0063268) // [Letterboxd](https://letterboxd.com/film/mandabi/)]
 - *Moi, un Noir* (1958)  
-  [[IMDb](https://www.imdb.com/title/tt0050725) // [Letterboxd](https://letterboxd.com/film/me-a-black/) ]
+  [[IMDb](https://www.imdb.com/title/tt0051942) // [Letterboxd](https://letterboxd.com/film/moi-un-noir/) ]
 - *Talking About Trees* (2019)  
-  [[IMDb](https://www.imdb.com/title/tt9586294) // [Letterboxd](https://letterboxd.com/film/talking-about-trees/)]
+  [[IMDb](https://www.imdb.com/title/tt9658178) // [Letterboxd](https://letterboxd.com/film/talking-about-trees/)]
 - *Touki Bouki* (1973)  
-  [[IMDb](https://www.imdb.com/title/tt0072407) // [Letterboxd](https://letterboxd.com/film/touki-bouki/)]
+  [[IMDb](https://www.imdb.com/title/tt0070820) // [Letterboxd](https://letterboxd.com/film/touki-bouki/)]
 - *Who Killed Captain Alex?* (2010)  
-  [[IMDb](https://www.imdb.com/title/tt3564472) // [Letterboxd](https://letterboxd.com/film/who-killed-captain-alex/)]
+  [[IMDb](https://www.imdb.com/title/tt1813757) // [Letterboxd](https://letterboxd.com/film/who-killed-captain-alex/)]
 
 #### People
 
 - Youssef Chahine  
-  [[IMDb](https://www.imdb.com/name/nm0149931) // [Wikipedia](https://en.wikipedia.org/wiki/Youssef_Chahine)]
+  [[IMDb](https://www.imdb.com/name/nm0149631) // [Wikipedia](https://en.wikipedia.org/wiki/Youssef_Chahine)]
 - Djibril Diop Mambéty  
-  [[IMDb](https://www.imdb.com/name/nm0541156) // [Wikipedia](https://en.wikipedia.org/wiki/Djibril_Diop_Mamb%C3%A9ty)]
+  [[IMDb](https://www.imdb.com/name/nm0228013) // [Wikipedia](https://en.wikipedia.org/wiki/Djibril_Diop_Mamb%C3%A9ty)]
 - Nabwana I.G.G.  
-  [[IMDb](https://www.imdb.com/name/nm7230957) // [Wikipedia](https://en.wikipedia.org/wiki/Who_Killed_Captain_Alex%3F)]
+  [[IMDb](https://www.imdb.com/name/nm4254419) // [Wikipedia](https://en.wikipedia.org/wiki/Nabwana_I.G.G.)]
 - Jean Rouch  
-  [[IMDb](https://www.imdb.com/name/nm0745683) // [Wikipedia](https://en.wikipedia.org/wiki/Jean_Rouch)]
+  [[IMDb](https://www.imdb.com/name/nm0745541) // [Wikipedia](https://en.wikipedia.org/wiki/Jean_Rouch)]
 - Ousmane Sembène  
-  [[IMDb](https://www.imdb.com/name/nm0783731) // [Wikipedia](https://en.wikipedia.org/wiki/Ousmane_Semb%C3%A8ne)]
+  [[IMDb](https://www.imdb.com/name/nm0783733) // [Wikipedia](https://en.wikipedia.org/wiki/Ousmane_Semb%C3%A8ne)]
 
 #### References
 
