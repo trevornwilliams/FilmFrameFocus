@@ -69,29 +69,29 @@ Symbiopsychotaxiplasm created its own counter-cinema model parallel to Godard. G
 
 #### Films
 
-*   Symbiopsychotaxiplasm: Take One (1968) \[[IMDb](http://www.imdb.com/title/tt0296881/) // [Letterboxd](https://letterboxd.com/film/symbiopsychotaxiplasm-take-one/)\]
+- **Symbiopsychotaxiplasm: Take One* (1968) \[[IMDb](http://www.imdb.com/title/tt0296881/) // [Letterboxd](https://letterboxd.com/film/symbiopsychotaxiplasm-take-one/)\]
     
-*   Discovering William Greaves (2006) \[[IMDb](http://www.imdb.com/title/tt6676204/maindetails) // [Letterboxd](https://letterboxd.com/film/discovering-william-greaves/)\]
+- *Discovering William Greaves* (2006) \[[IMDb](http://www.imdb.com/title/tt6676204/maindetails) // [Letterboxd](https://letterboxd.com/film/discovering-william-greaves/)\]
     
 
 #### People
 
-*   William Greaves \[[IMDb](https://www.imdb.com/name/nm0337348) // [Wikipedia](https://en.wikipedia.org/wiki/William_Greaves)\]
+- William Greaves \[[IMDb](https://www.imdb.com/name/nm0337348) // [Wikipedia](https://en.wikipedia.org/wiki/William_Greaves)\]
     
-*   Jean-Luc Godard \[[IMDb](https://www.imdb.com/name/nm0000419) // [Wikipedia](https://en.wikipedia.org/wiki/Jean-Luc_Godard)\]
+- Jean-Luc Godard \[[IMDb](https://www.imdb.com/name/nm0000419) // [Wikipedia](https://en.wikipedia.org/wiki/Jean-Luc_Godard)\]
     
 
 #### Reference
 
-*   [Apparatus Theory](https://en.wikipedia.org/wiki/Apparatus_theory)
+- [Apparatus Theory](https://en.wikipedia.org/wiki/Apparatus_theory)
     
-*   [Cannes Film Festival](https://en.wikipedia.org/wiki/Cannes_Film_Festival)
+- [Cannes Film Festival](https://en.wikipedia.org/wiki/Cannes_Film_Festival)
     
 
 #### Articles
 
-*   [Taubin, Amy. "Symbiopsychotaxiplasm: Still No Answers." (2006). The Criterion Collection. 4 Dec. 2006.](https://www.criterion.com/current/posts/460-symbiopsychotaxiplasm-still-no-answers)
+- [Taubin, Amy. "Symbiopsychotaxiplasm: Still No Answers." (2006). The Criterion Collection. 4 Dec. 2006.](https://www.criterion.com/current/posts/460-symbiopsychotaxiplasm-still-no-answers)
     
-*   Baudry, Jean-Louis. "The Apparatus: Metapsychological Approaches To The Impression Of Reality In Cinema." Film Theory And Criticism. Ed. Leo Braudy and Marshall Cohen. 7th ed. New York: Oxford UP, 2009. 171-88. Print.
+- Baudry, Jean-Louis. "The Apparatus: Metapsychological Approaches To The Impression Of Reality In Cinema." Film Theory And Criticism. Ed. Leo Braudy and Marshall Cohen. 7th ed. New York: Oxford UP, 2009. 171-88. Print.
     
-*   Wollen, Peter. "Godard And Counter Cinema: Vent D'Est." Film Theory And Criticism. Ed. Leo Braudy and Marshall Cohen. 7th ed. New York: Oxford UP, 2009. 418-26. Print.
+- Wollen, Peter. "Godard And Counter Cinema: Vent D'Est." Film Theory And Criticism. Ed. Leo Braudy and Marshall Cohen. 7th ed. New York: Oxford UP, 2009. 418-26. Print.

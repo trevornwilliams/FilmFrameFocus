@@ -63,37 +63,39 @@ Africa is not a genre.
 
 #### Films
 
-- *Cairo Station* (1958)  
-  [[IMDb](https://www.imdb.com/title/tt0051390) // [Letterboxd](https://letterboxd.com/film/cairo-station/)]
-- *Mandabi* (1968)  
-  [[IMDb](https://www.imdb.com/title/tt0063268) // [Letterboxd](https://letterboxd.com/film/mandabi/)]
-- *Moi, un Noir* (1958)  
-  [[IMDb](https://www.imdb.com/title/tt0051942) // [Letterboxd](https://letterboxd.com/film/moi-un-noir/) ]
-- *Talking About Trees* (2019)  
-  [[IMDb](https://www.imdb.com/title/tt9658178) // [Letterboxd](https://letterboxd.com/film/talking-about-trees/)]
-- *Touki Bouki* (1973)  
-  [[IMDb](https://www.imdb.com/title/tt0070820) // [Letterboxd](https://letterboxd.com/film/touki-bouki/)]
-- *Who Killed Captain Alex?* (2010)  
-  [[IMDb](https://www.imdb.com/title/tt1813757) // [Letterboxd](https://letterboxd.com/film/who-killed-captain-alex/)]
+- *Cairo Station* (1958) \[[IMDb](https://www.imdb.com/title/tt0051390) // [Letterboxd](https://letterboxd.com/film/cairo-station/)]
+
+- *Mandabi* (1968) \[[IMDb](https://www.imdb.com/title/tt0063268) // [Letterboxd](https://letterboxd.com/film/mandabi/)]
+
+- *Moi, un Noir* (1958) \[[IMDb](https://www.imdb.com/title/tt0051942) // [Letterboxd](https://letterboxd.com/film/moi-un-noir/) ]
+
+- *Talking About Trees* (2019) \[[IMDb](https://www.imdb.com/title/tt9658178) // [Letterboxd](https://letterboxd.com/film/talking-about-trees/)]
+
+- *Touki Bouki* (1973) \[[IMDb](https://www.imdb.com/title/tt0070820) // [Letterboxd](https://letterboxd.com/film/touki-bouki/)]
+
+- *Who Killed Captain Alex?* (2010) \[[IMDb](https://www.imdb.com/title/tt1813757) // [Letterboxd](https://letterboxd.com/film/who-killed-captain-alex/)]
 
 #### People
 
-- Youssef Chahine  
-  [[IMDb](https://www.imdb.com/name/nm0149631) // [Wikipedia](https://en.wikipedia.org/wiki/Youssef_Chahine)]
-- Djibril Diop Mambéty  
-  [[IMDb](https://www.imdb.com/name/nm0228013) // [Wikipedia](https://en.wikipedia.org/wiki/Djibril_Diop_Mamb%C3%A9ty)]
-- Nabwana I.G.G.  
-  [[IMDb](https://www.imdb.com/name/nm4254419) // [Wikipedia](https://en.wikipedia.org/wiki/Nabwana_I.G.G.)]
-- Jean Rouch  
-  [[IMDb](https://www.imdb.com/name/nm0745541) // [Wikipedia](https://en.wikipedia.org/wiki/Jean_Rouch)]
-- Ousmane Sembène  
-  [[IMDb](https://www.imdb.com/name/nm0783733) // [Wikipedia](https://en.wikipedia.org/wiki/Ousmane_Semb%C3%A8ne)]
+- Youssef Chahine \[[IMDb](https://www.imdb.com/name/nm0149631) // [Wikipedia](https://en.wikipedia.org/wiki/Youssef_Chahine)]
+
+- Djibril Diop Mambéty \[[IMDb](https://www.imdb.com/name/nm0228013) // [Wikipedia](https://en.wikipedia.org/wiki/Djibril_Diop_Mamb%C3%A9ty)]
+
+- Nabwana I.G.G. \[[IMDb](https://www.imdb.com/name/nm4254419) // [Wikipedia](https://en.wikipedia.org/wiki/Nabwana_I.G.G.)]
+
+- Jean Rouch \[[IMDb](https://www.imdb.com/name/nm0745541) // [Wikipedia](https://en.wikipedia.org/wiki/Jean_Rouch)]
+
+- Ousmane Sembène \[[IMDb](https://www.imdb.com/name/nm0783733) // [Wikipedia](https://en.wikipedia.org/wiki/Ousmane_Semb%C3%A8ne)]
 
 #### References
 
 - [Cinema of Nigeria](https://en.wikipedia.org/wiki/Cinema_of_Nigeria)
+
 - [Netflix in Nigeria](https://en.wikipedia.org/wiki/Netflix_in_Nigeria)
+
 - [Jean Rouch](https://en.wikipedia.org/wiki/Jean_Rouch)
+
 - [Talking About Trees](https://en.wikipedia.org/wiki/Talking_About_Trees_(film))
+
 - [Cinema of Egypt](https://en.wikipedia.org/wiki/Cinema_of_Egypt)
 
