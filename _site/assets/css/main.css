@@ -7,21 +7,69 @@
   padding: 0;
 }
 html, body {
-  height: 100%;
-  margin: 0;
-  font-family: 'EB Garamond', serif;
-  line-height: 1.6;
+  background: transparent;
   color: #24292e;
-  background-color: #fff;
+  font-family: 'EB Garamond', serif;
   font-size: 16px;
+  height: 100%;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+/* p5.js Background */
+#sketch-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#sketch-container canvas {
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+/* Header Styles */
+#header {
+  background-color: rgba(255, 255, 255, 1);
+  border-bottom: 1px solid #000000;
+  padding: 10px;
+  margin-bottom: 0;
+}
+
+.header-container {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  max-width: 50%;
+  padding: 0 10px;
 }
 
 /* Container for Main Content */
+.container > *:first-child {
+  margin-top: 0 !important;
+}
+
 .container {
-  background: #ffffff;
-  margin: 0 auto;
+  -webkit-backdrop-filter: blur(2px);
+  backdrop-filter: blur(2px);
+  background: rgba(255, 255, 255, 1);
+  border-radius: 10px;
+  margin: 8px auto 0 auto; 
+  margin-top: 0;
+  padding: 24px;
   position: relative;
-  width: 50%;
+  width: 75%;
 }
 
 /* Center and size all images inside post/page content */
@@ -57,22 +105,6 @@ html, body {
   border: 0;
 }
 
-/* Header Styles */
-#header {
-  background-color: transparent;
-  border-bottom: 1px solid #000000;
-  padding: 10px;
-}
-
-.header-container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  max-width: 50%;
-  margin: 0 auto;
-  padding: 0 10px;
-}
-
 /* Smaller logo */
 .logo img {
   max-height: 32px;
@@ -100,13 +132,20 @@ html, body {
 /* Main Content Area */
 .site-main {
   flex: 1;
-  padding: 24px 0;
+  padding: 8px 0 0 0; 
+  padding-top: 12px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
 }
 
 .site-wrapper {
   display: flex;
   flex-direction: column;
-  min-height: 100vh; /* full viewport height */
+  min-height: 100vh;
+  padding-bottom: 80px;
+  position: relative;
+  z-index: 0;
 }
 
 /* Post Layout Styles */
@@ -118,10 +157,10 @@ html, body {
 
 /* Footer Styles */
 #footer {
-  background-color: #fff; /* White footer */
+  background-color: rgba(255, 255, 255, 1);
   border-top: 1px solid #000000;
   bottom: 0;
-  color: #fff;
+  color: #000;
   margin-top: auto;
   padding: 10px 0;
   position: fixed;
@@ -179,8 +218,15 @@ a:hover {
 
 /* Content Styling */
 .content {
-  flex: 1; /* takes up all remaining space */
-  padding-bottom: 2rem; /* or whatever height your footer is */
+  flex: 1;
+  padding-bottom: 2rem;
+  margin: 0;
+}
+
+.content > h1:first-child,
+.content > h2:first-child,
+.content > p:first-child {
+  margin-top: 0;
 }
 
 .content ul,
