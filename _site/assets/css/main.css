@@ -94,6 +94,8 @@ html, body {
   height: 0;
   overflow: hidden;
   max-width: 100%;
+  margin: 2.5rem auto;
+  display: block;
 }
 
 .video-container iframe {
@@ -233,4 +235,8 @@ a:hover {
 .content ol {
   margin-bottom: 16px;
   padding-left: 32px;
+}
+
+.container p {
+  margin-bottom: 1rem;
 }
